@@ -1,0 +1,281 @@
+{
+  "_schema_version": "1.0",
+  "_description": "The raw, archival record of qualitative observations from each race day. This is the ground truth from which patterns in the Dynamic Intelligence Layer are derived. Entries are immutable once written.",
+  "_schema": {
+    "entry_id": "string — unique identifier, format: LOG-YYYYMMDD-NNN",
+    "date": "string — ISO 8601 date, e.g. 2026-02-27",
+    "race_id": "string — venue + race number, e.g. FLEMINGTON-R5",
+    "observation": "string — what was observed, factual and specific",
+    "hypothesis": "string — the interpretive inference drawn from the observation",
+    "confidence": "string — LOW | MEDIUM | HIGH",
+    "outcome": "string — PENDING | CONFIRMED | REFUTED | INCONCLUSIVE",
+    "follow_up_required": "boolean",
+    "tags": "array of strings — e.g. ['wet_track', 'barrier', 'trainer_pattern']"
+  },
+  "entries": [
+    {
+      "entry_id": "LOG-20260228-001",
+      "date": "2026-02-28",
+      "race_id": "FLEMINGTON-R1",
+      "observation": "Ben, Will & JD Hayes stable ran three horses (Jacaranda, Gin Twist, La Gitana) in a 2YO Listed race. Gin Twist won at $3.40, La Gitana ran 2nd. The stable dominated 1-2. Market had Jacaranda as equal favourite but Gin Twist attracted the most money on the NEDS Money Tracker (33 units vs 15 for Jacaranda).",
+      "hypothesis": "When a single stable runs 3+ horses in a race, the Money Tracker can provide a useful signal as to which runner the stable is most confident in, even when the market prices them similarly. The horse with the most stable money is often the intended runner.",
+      "confidence": "LOW",
+      "outcome": "CONFIRMED",
+      "follow_up_required": true,
+      "tags": ["stable_dominance", "money_tracker", "2yo_racing", "hayes_stable"]
+    },
+    {
+      "entry_id": "LOG-20260228-002",
+      "date": "2026-02-28",
+      "race_id": "FLEMINGTON-R1",
+      "observation": "Jacaranda was listed as a substitute runner, not an original field entry. I initially missed this distinction in my pre-race analysis.",
+      "hypothesis": "Substitute runners must be flagged and verified before finalising any race analysis. A substitute may have different form credentials, preparation, or stable confidence level compared to the original field.",
+      "confidence": "HIGH",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["substitutes", "pre_race_checklist", "process_improvement"]
+    },
+    {
+      "entry_id": "LOG-20260228-003",
+      "date": "2026-02-28",
+      "race_id": "FLEMINGTON-R2",
+      "observation": "Rue De Royale was the short-priced favourite ($2.50) ridden by apprentice Radley (a3 claim). Lost to Dirty Grin at $10.00. The apprentice weight advantage did not compensate for the skill disadvantage in a competitive metropolitan race.",
+      "hypothesis": "Apprentice jockeys on short-priced favourites in metropolitan races represent value in the opposition. The weight allowance is priced in by the market, but the skill deficit is often underpriced. This is a recurring value opportunity.",
+      "confidence": "MEDIUM",
+      "outcome": "CONFIRMED",
+      "follow_up_required": true,
+      "tags": ["apprentice_jockey", "value_in_opposition", "metropolitan_racing", "market_inefficiency"]
+    },
+    {
+      "entry_id": "LOG-20260228-004",
+      "date": "2026-02-28",
+      "race_id": "FLEMINGTON-R8",
+      "observation": "Observer won the Group 1 race as the dominant favourite. Short-priced ($1.90), won comfortably. Bet: $20 Win, returned $38. Net: +$18.",
+      "hypothesis": "In Group 1 races with a clearly dominant horse (superior ratings, elite connections, proven track record), backing the favourite at short odds is a legitimate, high-probability strategy. The price does not need to represent value if the probability of winning is sufficiently high.",
+      "confidence": "MEDIUM",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["group1", "short_priced_favourite", "high_probability", "observer"]
+    },
+    {
+      "entry_id": "LOG-20260228-005",
+      "date": "2026-02-28",
+      "race_id": "FLEMINGTON-R10",
+      "observation": "Xtra Rush (4-from-4 career, $4.80) was beaten by Ambassadorial ($3.30) in the BM84 handicap. Xtra Rush ran 2nd. The Win/Place split ($10 Win + $15 Place) converted a losing win bet into an overall profitable position. Tote place paid $2.40 vs fixed place of $1.85.",
+      "hypothesis": "Win/Place splits on value bets at country/provincial level are a sound risk management strategy. The tote place dividend frequently outperforms fixed odds place, particularly when the market is uncertain about the winner but confident the horse will run a place.",
+      "confidence": "MEDIUM",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["win_place_split", "tote_vs_fixed", "value_betting", "risk_management", "xtra_rush"]
+    },
+    {
+      "entry_id": "LOG-20260228-006",
+      "date": "2026-02-28",
+      "race_id": "FLEMINGTON-R10",
+      "observation": "Xtra Rush's undefeated 4-from-4 record was not sufficient to overcome the class rise into BM84 company. Ambassadorial, the more experienced horse at that class level, won comfortably.",
+      "hypothesis": "An undefeated record is a strong positive indicator but must be evaluated in the context of the class of opposition faced. A horse undefeated in Class 1 and BM58 races faces a genuine test when stepping into BM84 company. The undefeated record should increase confidence, not override class assessment.",
+      "confidence": "MEDIUM",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["class_assessment", "undefeated_record", "class_rise", "xtra_rush"]
+    },
+    {
+      "entry_id": "LOG-20260301-001",
+      "date": "2026-03-01",
+      "race_id": "COFFS-HARBOUR-R2",
+      "observation": "Satono Invader won the BM66 at Coffs Harbour at $1.65 fixed ($1.70 tote). Track was Good 4 at time of selection, deteriorated to Soft 5 by race time. Horse handled the conditions without difficulty. Two scratchings (Statement of Truth, Boom Court) reduced the field from 8 to 6 runners, strengthening the selection.",
+      "hypothesis": "On a country card with limited quality, a single high-conviction bet on the dominant horse in its class is the correct strategy. Passing on 6 of 7 races when the evidence does not support a bet is disciplined, not timid.",
+      "confidence": "HIGH",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["country_racing", "disciplined_selection", "class_dominance", "satono_invader", "coffs_harbour"]
+    },
+    {
+      "entry_id": "LOG-20260301-002",
+      "date": "2026-03-01",
+      "race_id": "COFFS-HARBOUR-R2",
+      "observation": "Track deteriorated from Good 4 to Soft 5 between morning track inspection and race time due to light rain. Satono Invader won regardless, suggesting it handles both going conditions.",
+      "hypothesis": "Satono Invader is a horse that handles both Good and Soft going. Should be noted as a potential wet-track performer if it wins again on Soft 5+ going.",
+      "confidence": "LOW",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["track_condition_change", "wet_track", "satono_invader", "coffs_harbour"]
+    },
+    {
+      "entry_id": "LOG-20260301-003",
+      "date": "2026-03-01",
+      "race_id": "STUDY-SESSION",
+      "observation": "Completed all 9 articles in the Jockeys and Trainers section of Practical Punting. Key frameworks acquired: (1) Preparation Pattern Check - identifying conditioning runs vs genuine winning attempts; (2) A/B/C Trainer Grading System; (3) Apprentice-on-Top-Weight Warning as a qualifier for HYP-001; (4) Pre-Post Market Scepticism - early markets are designed to attract money, not reflect true probability.",
+      "hypothesis": "The most durable principle across all articles: form your own independent assessment before consulting any market or public opinion. Divergence between your assessment and the market price is where value is found.",
+      "confidence": "HIGH",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["knowledge_base", "jockeys_trainers", "framework_acquisition", "study_session"]
+    },
+    {
+      "entry_id": "LOG-20260301-004",
+      "date": "2026-03-01",
+      "race_id": "SYSTEM-OPERATION",
+      "observation": "GitHub migration completed successfully. All TAT1 operational data (leaderboards, hypotheses, track profiles, specialty horse lists, performance dashboard, learning log) committed to eponastables/analyst-project-home on branch main. Commit hash 6a1f5b4.",
+      "hypothesis": "Permanent off-sandbox storage via GitHub resolves the continuity risk identified by CT1. End-of-session sync protocol must be executed at the close of every future session to ensure no knowledge is lost between threads.",
+      "confidence": "HIGH",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["github", "continuity", "system_operation", "data_migration"]
+    },
+    {
+      "entry_id": "LOG-20260301-005",
+      "date": "2026-03-01",
+      "race_id": "NATIONAL-RESULTS-ANALYSIS",
+      "observation": "Analysis of 45 winners across 6 meetings on a day dominated by wet tracks (4/6 meetings Soft or Heavy). Six long-priced winners ($10+), the highest being The King And I at $81 (Colac R2). Nine apprentice-ridden winners, including four of the long-priced winners (The King And I $81, Juice Box $10, First Law $26, Fire And Gemstone $14). Two notable horses identified: Satono Invader confirmed high win rate (3W/5S, 60%), and Captain Bull (Gatton R4) is now unbeaten in two starts at $9.00.",
+      "hypothesis": "Wet tracks appear to increase the frequency of long-priced winners, potentially due to form being less reliable and creating more variance. The success of apprentices on long-priced winners suggests their weight claims may be particularly valuable on horses the market has otherwise dismissed, especially in wet conditions where a light weight can be a significant advantage.",
+      "confidence": "LOW",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["results_analysis", "wet_track", "long_priced_winners", "apprentice_jockey", "value_finding"]
+    },
+    {
+      "entry_id": "LOG-20260301-006",
+      "date": "2026-03-01",
+      "race_id": "GATTON-R4",
+      "observation": "Captain Bull won at Gatton at $9.00, taking its record to 2 wins from 2 starts. This horse was not the favourite and won narrowly (0.03L margin). Trainer L J Hatch, jockey Dylan Turner. T/J combo A2E of 1.849 and PoT of +46.1%.",
+      "hypothesis": "A horse winning its first two starts when not the favourite in its second start is a strong signal of ability exceeding market expectation. This horse should be monitored for its next start.",
+      "confidence": "MEDIUM",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["unbeaten", "horses_to_follow", "captain_bull", "market_underestimation", "gatton"]
+    },
+    {
+      "entry_id": "LOG-20260301-007",
+      "date": "2026-03-01",
+      "race_id": "COLAC-R2",
+      "observation": "The King And I won at $81.00 at Colac (Soft 5), ridden by 4kg-claiming apprentice Liana Wood for trainer K & G Mayberry. The horse had a career record of 1W/22S prior to this race.",
+      "hypothesis": "Extreme long-priced winners on wet tracks with apprentice claims warrant investigation into whether a gear change or significant weight advantage was the primary catalyst. The combination of a heavy apprentice claim (a4) on a horse with previous soft-track form may represent a recurring value pattern.",
+      "confidence": "LOW",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["long_priced_winners", "apprentice_jockey", "wet_track", "form_reversal", "colac"]
+    },
+    {
+      "entry_id": "LOG-20260302-001",
+      "date": "2026-03-02",
+      "race_id": "SYSTEM-OPERATION",
+      "observation": "The V2 data pipeline failed to provide race distance for pre-race analysis, exposing a critical data gap. The issue was not an anomaly but a pre-existing structural limitation. The pipeline was upgraded to V3, which uses the /fields endpoint to capture distance, class, prize money, and all A2E statistics in a single pre-race call.",
+      "hypothesis": "A fully autonomous, multi-meeting workflow requires a production-grade data pipeline that is robustly tested across all required data fields. The V3 pipeline is now the mandatory standard for all data collection.",
+      "confidence": "HIGH",
+      "outcome": "CONFIRMED",
+      "follow_up_required": false,
+      "tags": ["pipeline_upgrade", "data_quality", "system_operation", "v3_pipeline"]
+    },
+    {
+      "entry_id": "LOG-20260302-002",
+      "date": "2026-03-02",
+      "race_id": "THANGOOL-R2",
+      "observation": "Horrible Hank (my top selection, score 22.1, gap 5.7) was beaten by Victory's Ghost ($5.00). Horrible Hank ran 3rd. The horse was well-supported in the market, starting at $2.80. The winner was the second-favourite.",
+      "hypothesis": "A high algorithmic score and a large gap over the second-ranked horse are strong positive indicators but do not guarantee a win, especially in lower-class country races where form can be less reliable. The loss on a high-conviction bet is a valuable data point for calibrating the scoring algorithm's confidence levels.",
+      "confidence": "MEDIUM",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["betting_loss", "algorithm_calibration", "country_racing", "thangool"]
+    },
+    {
+      "entry_id": "LOG-20260302-003",
+      "date": "2026-03-02",
+      "race_id": "YORK-R1",
+      "observation": "Wuigi won at York at $21.00. The horse was a 4yo gelding having its first career start. It led all the way to win. My algorithm assigned it a low score due to the lack of any career data.",
+      "hypothesis": "First-starters winning at long odds are a known source of value but are difficult to identify algorithmically. Qualitative factors such as barrier trial performance, trainer patterns with debutants, and pedigree may be required to flag these opportunities. This is a known gap in the current model.",
+      "confidence": "MEDIUM",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["first_starter", "long_priced_winners", "model_limitation", "york"]
+    },
+    {
+      "entry_id": "LOG-20260303-001",
+      "date": "2026-03-03",
+      "race_id": "DALBY-R3",
+      "observation": "Scoring model identified Kingsland as top selection (score 20, gap 5.0 over second horse Warilla Gorilla). However, TAB market showed Warilla Gorilla at $1.90 (fixed odds) with form 34151 — a win last start and win two starts ago. Kingsland was $5.50. The market had priced a dominant favourite that the scoring algorithm had ranked second due to track/distance record metrics.",
+      "hypothesis": "The scoring model can be systematically blind to the strength of a dominant favourite when that favourite's edge comes from recent form rather than historical track/distance records. A mandatory market check must be performed BEFORE any bet is confirmed. Any horse priced under $2.00 in the same race as a selection is a red flag requiring the selection to be withdrawn unless there is an exceptional qualitative reason to oppose the favourite.",
+      "confidence": "HIGH",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["market_check", "sub_2_favourite", "process_improvement", "model_blind_spot", "dalby"]
+    },
+    {
+      "entry_id": "LOG-20260303-002",
+      "date": "2026-03-03",
+      "race_id": "DALBY-R8",
+      "observation": "After multiple scratchings (Skyforger, Restonica, Capo Strada, Drang A Tang, Sutherland), Inatick emerged as the market favourite at $2.90 with back-to-back wins (form x6511). The scoring model had also identified Inatick as the top-rated horse (score 22). Market and model agreement on the same horse is a strong convergence signal.",
+      "hypothesis": "When the scoring model and the betting market independently arrive at the same horse as the top selection, this convergence represents a higher-confidence betting opportunity than model-only or market-only signals. Convergence should be tracked as a separate confidence tier.",
+      "confidence": "MEDIUM",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["model_market_convergence", "confidence_tier", "scratchings_impact", "dalby"]
+    },
+    {
+      "entry_id": "LOG-20260303-003",
+      "date": "2026-03-03",
+      "race_id": "DALBY-R6",
+      "observation": "Corvalist was selected at $8.50 in the morning. By race time the fixed odds had drifted to $15.00 — a near-doubling of the price. The race was won by Rum Diary ($7.50), a horse that had shortened from $6.00 to $7.50 (relatively stable). Corvalist finished 4th.",
+      "hypothesis": "Significant late drift in a selection's price (50%+ move outward) is a strong negative signal that should trigger a mandatory review and possible withdrawal. The market is communicating that informed money has moved away from the horse. This is distinct from normal price fluctuation and should be codified as a pre-race check.",
+      "confidence": "MEDIUM",
+      "outcome": "CONFIRMED",
+      "follow_up_required": true,
+      "tags": ["price_drift", "market_signal", "withdrawal_trigger", "dalby", "pre_race_check"]
+    },
+    {
+      "entry_id": "LOG-20260303-004",
+      "date": "2026-03-03",
+      "race_id": "DALBY-R8",
+      "observation": "Inatick was the model top selection and market favourite at $2.60 (shortened from $2.90). Despite model-market convergence, Inatick finished 3rd. The winner was Elected at $8.50 — a horse the model had scored lower. Rejoiced ran 2nd at $1.90 (second elect in the market).",
+      "hypothesis": "Model-market convergence increases confidence but does not guarantee success. Even when both signals align, the outcome is probabilistic. The convergence tier should be tracked over a larger sample before drawing conclusions about its predictive value. A single result (positive or negative) is insufficient to validate or refute the hypothesis.",
+      "confidence": "MEDIUM",
+      "outcome": "INCONCLUSIVE",
+      "follow_up_required": true,
+      "tags": ["model_market_convergence", "sample_size", "probabilistic_outcome", "dalby", "favourite_beaten"]
+    },
+    {
+      "entry_id": "LOG-20260303-005",
+      "date": "2026-03-03",
+      "race_id": "TAREE-R2",
+      "observation": "Emerald Hills was flagged as a pending selection pending jockey confirmation. The horse was subsequently scratched from the race. The winner was King Country at $6.00, beating the $2.20 favourite Pear Bellini. The favourite was beaten in a race where the field was significantly reduced by scratchings.",
+      "hypothesis": "Heavy scratching fields (50%+ of original field removed) create unpredictable race dynamics. The remaining runners may not have been intended to contest the race at that class level, and the market favourite formed on a different field composition. Races with heavy scratchings warrant additional caution and may be better passed.",
+      "confidence": "LOW",
+      "outcome": "CONFIRMED",
+      "follow_up_required": true,
+      "tags": ["scratchings", "field_reduction", "favourite_beaten", "taree", "race_dynamics"]
+    },
+    {
+      "entry_id": "LOG-20260304-001",
+      "date": "2026-03-04",
+      "race_id": "BELMONT-R2",
+      "observation": "Searchin' Times won Belmont R2 at $2.40 fixed odds. The horse had back-to-back wins and the highest Sky Rating in the race (100). The model and market both identified it as the top selection. The main threat Tousled Crown was scratched pre-race, further reducing the field. The horse won comfortably, paying $2.30 fixed.",
+      "hypothesis": "Model-market convergence combined with a field reduction (scratching of the second-ranked horse) is a high-confidence scenario. When the primary threat is removed from the race, the probability of the top selection winning increases significantly and should be noted as a positive signal.",
+      "confidence": "HIGH",
+      "outcome": "CONFIRMED",
+      "follow_up_required": true,
+      "tags": ["model_market_convergence", "scratchings", "field_reduction", "belmont", "win"]
+    },
+    {
+      "entry_id": "LOG-20260304-002",
+      "date": "2026-03-04",
+      "race_id": "BELMONT-R7",
+      "observation": "History Won't Care won Belmont R7 at $3.90 fixed odds ($4.40 tote), ridden by William Pike. Swift Talker ($3.10), which was identified as a genuine threat in the morning analysis, was scratched pre-race. The race became an open contest and History Won't Care won clearly. Zorbrist, the second market elect at $7.00, ran 3rd.",
+      "hypothesis": "The scratching of a key market rival (Swift Talker $3.10) immediately before race time is a significant positive signal for remaining selections. The pre-race scratchings check is not merely administrative — it is a genuine analytical step that can upgrade the confidence level of a selection from CANDIDATE to HIGH CONFIDENCE. This validates the Task 2 protocol.",
+      "confidence": "HIGH",
+      "outcome": "CONFIRMED",
+      "follow_up_required": true,
+      "tags": ["scratchings", "william_pike", "belmont", "win", "task2_protocol", "threat_removed"]
+    },
+    {
+      "entry_id": "LOG-20260304-003",
+      "date": "2026-03-04",
+      "race_id": "BELMONT-ALL",
+      "observation": "Day 6 produced a 2-from-2 result — the first perfect day for TAT1. Both selections were identified through model-market convergence. Both had key threats removed via scratchings. Both were ridden by top WA jockeys (Nottle and Pike). The bank recovered from $86.76 to $106.76, a 23.1% single-day gain.",
+      "hypothesis": "The combination of (1) model-market convergence, (2) pre-race scratchings check removing threats, and (3) top-tier jockey engagement represents the highest-confidence selection scenario available. When all three factors align, stake size should be reviewed upward from the standard 10% bank unit. This is a hypothesis to test over the coming weeks.",
+      "confidence": "MEDIUM",
+      "outcome": "PENDING",
+      "follow_up_required": true,
+      "tags": ["perfect_day", "model_market_convergence", "jockey_quality", "stake_sizing", "bank_recovery"]
+    }
+  ]
+}

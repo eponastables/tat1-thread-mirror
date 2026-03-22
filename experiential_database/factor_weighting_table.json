@@ -1,0 +1,84 @@
+{
+  "_schema_version": "1.0",
+  "_description": "The historical record of how The Analyst's handicapping model has evolved. Each factor's weighting is reviewed and updated monthly based on accumulated evidence. This table is the most direct representation of the agent's intellectual growth.",
+  "_last_reviewed": null,
+  "_next_review_due": null,
+  "_schema": {
+    "factor_id": "string — unique identifier, e.g. FACTOR-001",
+    "factor_name": "string — human-readable name, e.g. 'Recent Form (Last 3 Runs)'",
+    "category": "string — FORM | PACE | CLASS | CONNECTIONS | TRACK | CONDITIONS | BARRIER | WEIGHT",
+    "current_weight": "number — relative weighting 0.0 to 1.0, all factors should sum to 1.0 within a category",
+    "initial_weight": "number — the weight assigned at inception",
+    "weight_history": "array of objects — {date, weight, reason_for_change, supporting_races}",
+    "supporting_races": "integer — number of races used to validate current weight",
+    "confidence": "string — LOW | MEDIUM | HIGH",
+    "notes": "string — qualitative context for current weighting"
+  },
+  "factors": [
+    {
+      "factor_id": "FACTOR-001",
+      "factor_name": "Recent Form (Last 3 Runs)",
+      "category": "FORM",
+      "current_weight": 0.35,
+      "initial_weight": 0.35,
+      "weight_history": [
+        {"date": null, "weight": 0.35, "reason_for_change": "Initial assignment at architecture inception", "supporting_races": 0}
+      ],
+      "supporting_races": 0,
+      "confidence": "LOW",
+      "notes": "Initial weight pending calibration from operational experience."
+    },
+    {
+      "factor_id": "FACTOR-002",
+      "factor_name": "Class Assessment",
+      "category": "CLASS",
+      "current_weight": 0.25,
+      "initial_weight": 0.25,
+      "weight_history": [
+        {"date": null, "weight": 0.25, "reason_for_change": "Initial assignment at architecture inception", "supporting_races": 0}
+      ],
+      "supporting_races": 0,
+      "confidence": "LOW",
+      "notes": "Initial weight pending calibration from operational experience."
+    },
+    {
+      "factor_id": "FACTOR-003",
+      "factor_name": "Pace Scenario Fit",
+      "category": "PACE",
+      "current_weight": 0.20,
+      "initial_weight": 0.20,
+      "weight_history": [
+        {"date": null, "weight": 0.20, "reason_for_change": "Initial assignment at architecture inception", "supporting_races": 0}
+      ],
+      "supporting_races": 0,
+      "confidence": "LOW",
+      "notes": "Initial weight pending calibration from operational experience."
+    },
+    {
+      "factor_id": "FACTOR-004",
+      "factor_name": "Trainer/Jockey Connections",
+      "category": "CONNECTIONS",
+      "current_weight": 0.10,
+      "initial_weight": 0.10,
+      "weight_history": [
+        {"date": null, "weight": 0.10, "reason_for_change": "Initial assignment at architecture inception", "supporting_races": 0}
+      ],
+      "supporting_races": 0,
+      "confidence": "LOW",
+      "notes": "Initial weight pending calibration from operational experience."
+    },
+    {
+      "factor_id": "FACTOR-005",
+      "factor_name": "Track and Distance Suitability",
+      "category": "TRACK",
+      "current_weight": 0.10,
+      "initial_weight": 0.10,
+      "weight_history": [
+        {"date": null, "weight": 0.10, "reason_for_change": "Initial assignment at architecture inception", "supporting_races": 0}
+      ],
+      "supporting_races": 0,
+      "confidence": "LOW",
+      "notes": "Initial weight pending calibration from operational experience."
+    }
+  ]
+}

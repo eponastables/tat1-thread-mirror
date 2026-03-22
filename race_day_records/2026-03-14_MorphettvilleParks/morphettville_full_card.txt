@@ -1,0 +1,151 @@
+MORPHETTVILLE PARKS — 14 MARCH 2026
+Rail: +6m 1000m-W/Post; +3m Remainder
+======================================================================
+
+R1 | Hahn (Bm62) | 1000m | Benchmark 62; | Prize: 55000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Tikkamos                 3   41.6     A J Gluyas                     Taylor Johnstone         58    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Cross-over nose band first time, tongue tie first time. 
+2   Never Ordinary           1   37.9     Byron Cozamanis                Rochelle Milnes          59    2                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Neveu                    2   37.6     Jon O'Connor                   Andrew Stead             58    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Lalor                    3   35.6     Michael Hickmott                                        59    3                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Astilla                  1   28.6     A & S Freedman                                          55.5  6x                   {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs (pre-race only) first time, tongue tie first time. 
+
+R2 | M&J Chickens (Bm72) | 1300m | Benchmark 72; | Prize: 65000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Sir Myka                 1   56.8     Travis Doudle                  Will Price               56.5  15x6186x32           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Matahga                  4   54.1     P Stokes                       Jacob Opperman           59.5  211x709x             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Gelded , tongue tie off first time. 
+3   Mating Call              2   48.2     D Clarken & O Macgillivray     Todd Pannell             60    1635x                {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Visors off first time. 
+4   Kalmana                  3   48.0     R & C Jolly                    Caitlin Jones            57    9x312163x            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Big Rita June            7   47.5     Lewis & Eliza Grantham         Andrew Stead             54    41x                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Nose roll first time. 
+6   Oak Park Maddison        5   40.9     Travis Doudle                  Caitlin Tootell          54    306x7353181          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Light The Night          6   37.9     A J Gluyas                     Jason Holder             58    82x2514214           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R3 | Sportsbet Same Race Multi Mdn Plate | 1400m | Maiden; | Prize: 50000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   She Rex                  5   42.8     Cody Reardon                   Jackson Murphy           56    233x33506x34         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Love To Lie              10  34.7     Travis Doudle                                           55    3                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Silent Answer            10  33.3     P Stokes                       Jacob Opperman           55    4264                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Elite Affair             4   31.8     G & N Searle & B Callanan      Rochelle Milnes          55    0                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers first time. 
+5   Innominate               11  31.4     R W Huxtable                   Alysha Warren            55    7                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Arcturus Star            8   30.5     G Richards & D Moyle           Dominic Tourneur         57    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Sicilian Princess        6   29.9     R & C Jolly                    Taylor Johnstone         55    78x7722x252          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Jumbo Jet                1   29.1     P Stokes                       Ben Kennedy              57    8                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Iroquai                  3   28.7     Will Clarken                   Kayla Crowther           56    08x4                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+10  Let It Ride              7   28.7     M J Seyers                     Campbell Rawiller        58    2200x772900x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Thundara                 9   28.4     Aaron Bain & Ned Taylor        Jason Holder             55    44                   {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Boolcunda Dawn           13  25.0     Peter & Belinda Blanch                                  55    87x25                {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+13  Miss Puissance           2   23.5     Ms K Letts-Maund               Anna Jordsjo             56    67x00x4              {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+14  Chilly Bro               12  21.7     S & J Jaensch                                           57    0                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Tongue tie first time, winkers first time. 
+
+R5 | Sportsbet Jockey Watch (Bm70) | 1000m | Benchmark 70; | Prize: 55000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Nextonixs                4   50.4     David Jolly & Justin Potter    Rochelle Milnes          59.5  21x19x135x31         {'recordType': '', 'starts': 5, 'firsts': 3, 'seconds': 0, 'thirds': 1} -
+2   Bristler                 2   48.7     G Richards & D Moyle           Taylor Johnstone         57.5  6931252922           {'recordType': '', 'starts': 13, 'firsts': 2, 'seconds': 3, 'thirds': 1} -
+3   Walk Like An Angel       3   46.6     A J Gluyas                     Jason Holder             56.5  08724x03250x         {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} Blinkers off again. 
+4   Not Surprised            1   41.8     A & S Freedman                                          55.5  16x8x1x4             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs (pre-race only) first time. 
+5   Over Yonder              1   38.8     B J Davis                      Teagan Voorham           58    8x150470213          {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 1} -
+6   Mintulee                 6   37.1     Shayne & Chelsea Cahill        Alysha Warren            59    5460712814           {'recordType': '', 'starts': 12, 'firsts': 4, 'seconds': 0, 'thirds': 1} -
+7   Winning Revolution       5   36.0     Jon O'Connor                   S H Sit                  64.5  4914632416           {'recordType': '', 'starts': 12, 'firsts': 2, 'seconds': 1, 'thirds': 1} -
+8   Rideau                   7   34.9     Garret Lynch                   Connor Murtagh           59    3363x321261          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Cool Magnum              8   32.8     J Hickmott & C Riggs           Campbell Rawiller        58    087044070x6          {'recordType': '', 'starts': 7, 'firsts': 2, 'seconds': 0, 'thirds': 1} -
+
+R6 | Fleurieu Milk Company Hcp (64) | 1400m | Restricted 64; | Prize: 50000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Scandalize               5   45.2     Chris Bieg                     Jason Holder             60    102x0100x134         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Geetee Forty             2   43.5     G Richards & D Moyle           Rochelle Milnes          55.5  5231851800x          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Ramasis                  9   43.2     Travis Doudle                  Will Price               58    21                   {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   United Legend            3   38.7     M J Seyers                     Jacob Opperman           55.5  65581259x3           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Over The Edge            6   35.6     D I Dodson                     Kayla Crowther           56.5  68164x062            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   King's Crossing          1   35.0     Peter & Belinda Blanch         Dominic Tourneur         60    57x000x08180x        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers off again, lugging bit first time, nasal strip first time, nose roll again, tongue tie off first time. 
+7   Thermodynamic            7   34.0     Ms N Irwin                     Campbell Rawiller        58.5  4225956229           {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} Blinkers again, winkers off first time. 
+8   Ironbar                  10  32.9     Luke O'Connor                  Todd Pannell             58.5  90x16x849431         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Deficit                  8   31.3     D C Saxon                      Taylor Johnstone         54.5  4896318905           {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+10  Taraashoq                4   30.6     Jyi Lukey                      Margaret Collett         56.5  406x676780x6         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R4 | Adelaide Galvanising Industries Hcp (C2) | 1300m | Class 2; | Prize: 55000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   You'resogolden           1   49.2     Michael Hickmott               Caitlin Tootell          54    3156                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Benefitsofmine           7   45.5     Ms M Cunningham                Jake Toeroek             55.5  2x1200x3             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Autumn Frost             5   45.3     R & C Jolly                    Caitlin Jones            59    0x151422             {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+4   Synthesise               3   44.7     M J Seyers                     Kayla Crowther           54    466x313x             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Stokomo                  6   39.1     Aaron Bain & Ned Taylor        Campbell Rawiller        60    3441225x222          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Percidian                9   36.6     M W Lewis                      Rochelle Milnes          55    1x85x47308x15        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Tripod Terror            4   35.7     Chris Bieg                     Jason Holder             56    657x3743523          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Threatening              8   33.7     G & N Searle & B Callanan      Teagan Voorham           56.5  266x3130074          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Just A Jewel             2   31.0     J Hickmott & C Riggs           Margaret Collett         54    57x8415477x5         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers first time. 
+
+R9 | Sportsbet BlackBook Hcp (68) | 1550m | Restricted 68; | Prize: 55000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Following Sea            4   46.9     Aaron Bain & Ned Taylor        Todd Pannell             56    3x1100x5088x6        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Flashing Steel           1   46.7     Ms K Byrnes                    Brooke King              60    539266x4774          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Nasal strip off first time. 
+3   Sparkup                  6   46.5     Kirsten Mooney                 Campbell Rawiller        58    411x0019776          {'recordType': '', 'starts': 5, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+4   Wild Chap                11  45.4     Ms M Cunningham                Kayla Crowther           59.5  4127350099           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   France's Boy             2   42.2     J Hickmott & C Riggs           Jackson Murphy           54    1064402298           {'recordType': '', 'starts': 27, 'firsts': 4, 'seconds': 3, 'thirds': 3} -
+6   Headphones               3   42.2     Judy Streets                   Connor Murtagh           56.5  0225353707           {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Stratum Pride            5   38.9     P Huserot                      Rochelle Milnes          54    100x6653467          {'recordType': '', 'starts': 4, 'firsts': 0, 'seconds': 1, 'thirds': 1} -
+8   Jaz Tycoon               8   36.0     Ms M Cunningham                Will Price               55    2654751998           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Warrandyte Road          7   35.8     G P Moody                      Sairyn Fawke             54    7671414613           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+10  Shearman Dyer            12  34.0     Ms P Trenwith                  Stacey Metcalfe          54    364037536x0          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Cowley's Creek           10  28.6     T L Day                        Dylan Caboche            54    0047755315           {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Annihilate               9   23.9     Chris Bieg                     Jake Toeroek             59.5  607448x4331          {'recordType': '', 'starts': 4, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+
+R8 | Sportsbet Get On Extra Hcp (64) | 1400m | Restricted 64; | Prize: 50000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Fringes                  3   45.2     Michael Hickmott               Todd Pannell             57.5  197                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs (pre-race only) first time. 
+2   Vercelli                 1   43.9     Travis Doudle                  Caitlin Tootell          57.5  4x483x8x12           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Extra Hot                5   41.9     Peter & Belinda Blanch         Dominic Tourneur         60    114480237x2          {'recordType': '', 'starts': 3, 'firsts': 0, 'seconds': 1, 'thirds': 2} -
+4   Chillcuz                 4   40.2     Justin Pickering               Alysha Warren            59.5  80x14676241          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Flash Alice              2   40.1     P Stokes                       Ben Kennedy              59.5  733283x15            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Harsh                    10  38.9     R & C Jolly                    Caitlyn Munro            57.5  5210x773529x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Miss Kermie              4   36.7     Sarah Rutten                                            60    277107x6835          {'recordType': '', 'starts': 4, 'firsts': 1, 'seconds': 0, 'thirds': 0} Visors first time. 
+8   Limbering                12  36.6     Raharna McDonald                                        54.5  8367146356           {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+9   All Too Mysti            12  32.5     R & C Jolly                    Jake Toeroek             60    263x3752163          {'recordType': '', 'starts': 3, 'firsts': 0, 'seconds': 2, 'thirds': 0} -
+10  Footprints               7   32.0     T L Day                        Dylan Caboche            56.5  1588x878238          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Liselle's Luck           9   25.9     J Hickmott & C Riggs           Margaret Collett         56    963761940x3          {'recordType': '', 'starts': 5, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Irrefutably              6   25.6     R & C Jolly                    Teagan Voorham           59    65x82158x490         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+13  Truly Elsa               11  23.9     Darren & Aimee Magro           Jason Holder             59.5  807x4631500          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers off again. 
+14  Exalted Kate             8   21.2     Jyi Lukey                      Campbell Rawiller        59.5  7x455529115          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R10 | Dominant Clean Sweep Hcp (64) | 1250m | Restricted 64; | Prize: 50000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   One More Song            12  45.1     Aaron Bain & Ned Taylor        Todd Pannell             56.5  7x11x                {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Grinzinger Ace           3   42.4     Ms E Hubbard                   Dylan Caboche            57.5  9361122019           {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+3   Sassy For Sure           9   41.9     P Stokes                       Kayla Crowther           55.5  2x610x46             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers off first time. 
+4   Cuban Waters             2   41.5     G & N Searle & B Callanan      Teagan Voorham           57    217700x4101          {'recordType': '', 'starts': 4, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+5   Tough Talk               4   41.2     A J Gluyas                     Taylor Johnstone         60    1758x11              {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+6   Dazelles                 10  41.1     R W Huxtable                   Rochelle Milnes          54    0x316                {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Xtramagic                11  39.1     P A Preusker                   Alysha Warren            55    63x35545220          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Shadow Eagle             7   35.8     Byron Cozamanis                Campbell Rawiller        59    5731404295           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Falanghina               5   34.5     P Stokes                       Ben Kennedy              57.5  43x35410839x         {'recordType': '', 'starts': 3, 'firsts': 0, 'seconds': 0, 'thirds': 1} Blinkers off first time. 
+10  Trantoro                 6   32.6     S P Gower                      Will Price               55    6698186140           {'recordType': '', 'starts': 3, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Jura Vaudois             6   31.3     Raharna McDonald                                        55    0x238518751          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Sharendipity             8   30.3     Cody Reardon                   Andrew Stead             57.5  74442534x67          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers off first time. 
+13  Cork Harbour             1   30.2     D C Saxon                      Brooke King              59.5  4636861440           {'recordType': '', 'starts': 6, 'firsts': 1, 'seconds': 1, 'thirds': 1} -
+14  Marcolt                  12  29.9     Peter & Belinda Blanch                                  60    4x169473898x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Bubble cheeker (near side) first time, cheekers first time, cross-over nose band off first time. 
+
+R7 | The Craig Fitzy's 60 Fireball Classic (Bm68) | 2275m | Benchmark 68; | Prize: 55000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   No Rumours               4   54.8     P A Preusker                   Jacob Opperman           57.5  41542x46216          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Burning Bright           1   50.5     A J Gluyas                     Taylor Johnstone         59    7422113x305          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Conni Island             8   49.6     Ms H Lehmann                   Alysha Warren            60    2165110502           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Tyusix                   6   47.6     R Daniel & T Stanbury          Jake Toeroek             56    24134x12523          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Greatestofease           2   47.0     Garret Lynch                   Sairyn Fawke             54    8372291884           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Andrew's Memory          7   37.7     D Shepherd                     Caitlin Tootell          61.5  3205231311           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   The True Believer        5   35.7     Grant Young                    Will Price               54    470x0505424          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} Tongue tie off first time. 
+8   Theodor                  10  35.5     Travis Doudle                  Kayla Crowther           54.5  429x479x7x601        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Savatoff                 3   35.0     Ms P Trenwith                  Jason Holder             57    9642562073           {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+10  Lauding                  11  32.6     C Maher                        Todd Pannell             60.5  08x608858x04         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Vintage Kod              9   27.3     Garret Lynch                   Connor Murtagh           57    9x077801805          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+
+END OF CARD

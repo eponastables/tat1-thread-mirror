@@ -1,0 +1,2704 @@
+{
+  "race_id": "1330613",
+  "track_name": "Rosehill",
+  "race_number": 8,
+  "race_date": "2026-03-14",
+  "config_version": "1.2.0",
+  "horses": [
+    {
+      "horse_name": "Cinsault",
+      "horse_id": "UNKNOWN",
+      "barrier": 5,
+      "base_rating_total": 64.55,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 17.0,
+          "calculation_logic": "Form string: '2X2321X14111' | Runs scored: ['2', 'X', '2', '3', '2'] | Run details: [{'run': 1, 'result': '2', 'points': 6.0}, {'run': 2, 'result': 'X', 'points': 0.0}, {'run': 3, 'result': '2', 'points': 6.0}, {'run': 4, 'result': '3', 'points': 4.0}, {'run': 5, 'result': '2', 'points': 6.0}] | Raw score: 22.0 / 22.0 | Normalised to 17.0pts: 17.00",
+          "raw_data": {
+            "form_string": "2X2321X14111",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 2,
+                "result": "X",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 4,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 5,
+                "result": "2",
+                "points": 6.0
+              }
+            ],
+            "raw_score": 22.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 3.1,
+          "calculation_logic": "Starts: 14 | Wins: 5 | Places: 8 | Win%: 35.7% | Place%: 57.1% | Composite (w=0.6, p=0.4): 0.443 | Score: 3.10 / 7.0",
+          "raw_data": {
+            "starts": 14,
+            "wins": 5,
+            "places": 8,
+            "win_pct": 0.3571,
+            "place_pct": 0.5714
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 6.0,
+          "calculation_logic": "Track: 1s/1w/0p → win%=100.0% → 3.50/5.0 | Distance: No record — neutral 2.50/5.0 | Total: 6.00 / 10.0",
+          "raw_data": {
+            "track_starts": 1,
+            "track_wins": 1,
+            "track_places": 0,
+            "dist_starts": 0,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 7.0,
+          "calculation_logic": "Peak class: 'G2' → base score: 7.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 7.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G2",
+            "base_score": 7.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 1.14,
+          "calculation_logic": "14d SR: 19.0% (w=0.5) | Season SR: 19.0% (w=0.5) | Composite: 0.190 | Score: 1.14 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.19,
+            "trainer_season_sr": 0.19
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.88,
+          "calculation_logic": "14d SR: 22.0% (w=0.5) | Season SR: 22.0% (w=0.5) | Composite: 0.220 | Score: 0.88 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.22,
+            "jockey_season_sr": 0.22
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 5.0,
+          "calculation_logic": "Days since last run: 21 | Band matched: 15-28 days | Score: 5.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 21,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 7.0,
+          "calculation_logic": "Condition: 'Good' | 6s/5w/0p | Win%: 83.3% (w=0.7) | Place%: 0.0% (w=0.3) | Composite: 0.583 | Score: 7.00 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 6,
+            "condition_wins": 5,
+            "condition_places": 0,
+            "win_pct": 0.8333,
+            "place_pct": 0.0
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 5 → category: favourable | Score: 8.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 5,
+            "category": "favourable",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 3.43,
+          "calculation_logic": "Weight: 55.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 57.1% | Score: 3.43 / 8.0",
+          "raw_data": {
+            "weight": 55.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Cilacap",
+      "horse_id": "UNKNOWN",
+      "barrier": 3,
+      "base_rating_total": 59.86,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 17.0,
+          "calculation_logic": "Form string: '3111610X76' | Runs scored: ['3', '1', '1', '1', '6'] | Run details: [{'run': 1, 'result': '3', 'points': 4.0}, {'run': 2, 'result': '1', 'points': 10.0}, {'run': 3, 'result': '1', 'points': 10.0}, {'run': 4, 'result': '1', 'points': 10.0}, {'run': 5, 'result': '6', 'points': 0.0}] | Raw score: 34.0 / 22.0 | Normalised to 17.0pts: 17.00",
+          "raw_data": {
+            "form_string": "3111610X76",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 2,
+                "result": "1",
+                "points": 10.0
+              },
+              {
+                "run": 3,
+                "result": "1",
+                "points": 10.0
+              },
+              {
+                "run": 4,
+                "result": "1",
+                "points": 10.0
+              },
+              {
+                "run": 5,
+                "result": "6",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 34.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 2.18,
+          "calculation_logic": "Starts: 9 | Wins: 4 | Places: 1 | Win%: 44.4% | Place%: 11.1% | Composite (w=0.6, p=0.4): 0.311 | Score: 2.18 / 7.0",
+          "raw_data": {
+            "starts": 9,
+            "wins": 4,
+            "places": 1,
+            "win_pct": 0.4444,
+            "place_pct": 0.1111
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 3.5,
+          "calculation_logic": "Track: 1s/0w/0p → win%=0.0% → 0.00/5.0 | Distance: 1s/1w/0p → win%=100.0% → 3.50/5.0 | Total: 3.50 / 10.0",
+          "raw_data": {
+            "track_starts": 1,
+            "track_wins": 0,
+            "track_places": 0,
+            "dist_starts": 1,
+            "dist_wins": 1,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 7.0,
+          "calculation_logic": "Peak class: 'G2' → base score: 7.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 7.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G2",
+            "base_score": 7.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.78,
+          "calculation_logic": "14d SR: 13.0% (w=0.5) | Season SR: 13.0% (w=0.5) | Composite: 0.130 | Score: 0.78 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.13,
+            "trainer_season_sr": 0.13
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.4,
+          "calculation_logic": "14d SR: 10.0% (w=0.5) | Season SR: 10.0% (w=0.5) | Composite: 0.100 | Score: 0.40 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.1,
+            "jockey_season_sr": 0.1
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 5.0,
+          "calculation_logic": "Days since last run: 21 | Band matched: 15-28 days | Score: 5.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 21,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Condition: 'Good' | 6s/1w/1p | Win%: 16.7% (w=0.7) | Place%: 16.7% (w=0.3) | Composite: 0.167 | Score: 2.00 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 6,
+            "condition_wins": 1,
+            "condition_places": 1,
+            "win_pct": 0.1667,
+            "place_pct": 0.1667
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 3 → category: favourable | Score: 8.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 3,
+            "category": "favourable",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Weight: 51.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 0.0% | Score: 8.00 / 8.0",
+          "raw_data": {
+            "weight": 51.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Ole Dancer",
+      "horse_id": "UNKNOWN",
+      "barrier": 11,
+      "base_rating_total": 56.51,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 17.0,
+          "calculation_logic": "Form string: '1X1521X23' | Runs scored: ['1', 'X', '1', '5', '2'] | Run details: [{'run': 1, 'result': '1', 'points': 10.0}, {'run': 2, 'result': 'X', 'points': 0.0}, {'run': 3, 'result': '1', 'points': 10.0}, {'run': 4, 'result': '5', 'points': 0.0}, {'run': 5, 'result': '2', 'points': 6.0}] | Raw score: 26.0 / 22.0 | Normalised to 17.0pts: 17.00",
+          "raw_data": {
+            "form_string": "1X1521X23",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "1",
+                "points": 10.0
+              },
+              {
+                "run": 2,
+                "result": "X",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "1",
+                "points": 10.0
+              },
+              {
+                "run": 4,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "2",
+                "points": 6.0
+              }
+            ],
+            "raw_score": 26.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Starts: 7 | Wins: 3 | Places: 3 | Win%: 42.9% | Place%: 42.9% | Composite (w=0.6, p=0.4): 0.429 | Score: 3.00 / 7.0",
+          "raw_data": {
+            "starts": 7,
+            "wins": 3,
+            "places": 3,
+            "win_pct": 0.4286,
+            "place_pct": 0.4286
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 5.0,
+          "calculation_logic": "Track: No record — neutral 2.50/5.0 | Distance: No record — neutral 2.50/5.0 | Total: 5.00 / 10.0",
+          "raw_data": {
+            "track_starts": 0,
+            "track_wins": 0,
+            "track_places": 0,
+            "dist_starts": 0,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.72,
+          "calculation_logic": "14d SR: 12.0% (w=0.5) | Season SR: 12.0% (w=0.5) | Composite: 0.120 | Score: 0.72 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.12,
+            "trainer_season_sr": 0.12
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.56,
+          "calculation_logic": "14d SR: 14.0% (w=0.5) | Season SR: 14.0% (w=0.5) | Composite: 0.140 | Score: 0.56 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.14,
+            "jockey_season_sr": 0.14
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 4.8,
+          "calculation_logic": "Condition: 'Good' | 5s/2w/2p | Win%: 40.0% (w=0.7) | Place%: 40.0% (w=0.3) | Composite: 0.400 | Score: 4.80 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 5,
+            "condition_wins": 2,
+            "condition_places": 2,
+            "win_pct": 0.4,
+            "place_pct": 0.4
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 11 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 11,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 3.43,
+          "calculation_logic": "Weight: 55.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 57.1% | Score: 3.43 / 8.0",
+          "raw_data": {
+            "weight": 55.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Lazzura",
+      "horse_id": "UNKNOWN",
+      "barrier": 8,
+      "base_rating_total": 50.66,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 17.0,
+          "calculation_logic": "Form string: '43124X1155X2' | Runs scored: ['4', '3', '1', '2', '4'] | Run details: [{'run': 1, 'result': '4', 'points': 2.0}, {'run': 2, 'result': '3', 'points': 4.0}, {'run': 3, 'result': '1', 'points': 10.0}, {'run': 4, 'result': '2', 'points': 6.0}, {'run': 5, 'result': '4', 'points': 2.0}] | Raw score: 24.0 / 22.0 | Normalised to 17.0pts: 17.00",
+          "raw_data": {
+            "form_string": "43124X1155X2",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "4",
+                "points": 2.0
+              },
+              {
+                "run": 2,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 3,
+                "result": "1",
+                "points": 10.0
+              },
+              {
+                "run": 4,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 5,
+                "result": "4",
+                "points": 2.0
+              }
+            ],
+            "raw_score": 24.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 2.15,
+          "calculation_logic": "Starts: 15 | Wins: 5 | Places: 4 | Win%: 33.3% | Place%: 26.7% | Composite (w=0.6, p=0.4): 0.307 | Score: 2.15 / 7.0",
+          "raw_data": {
+            "starts": 15,
+            "wins": 5,
+            "places": 4,
+            "win_pct": 0.3333,
+            "place_pct": 0.2667
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 4.67,
+          "calculation_logic": "Track: 3s/1w/2p → win%=33.3% → 2.17/5.0 | Distance: 2s/1w/1p → win%=50.0% → 2.50/5.0 | Total: 4.67 / 10.0",
+          "raw_data": {
+            "track_starts": 3,
+            "track_wins": 1,
+            "track_places": 2,
+            "dist_starts": 2,
+            "dist_wins": 1,
+            "dist_places": 1
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.72,
+          "calculation_logic": "14d SR: 12.0% (w=0.5) | Season SR: 12.0% (w=0.5) | Composite: 0.120 | Score: 0.72 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.12,
+            "trainer_season_sr": 0.12
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 1.12,
+          "calculation_logic": "14d SR: 28.0% (w=0.5) | Season SR: 28.0% (w=0.5) | Composite: 0.280 | Score: 1.12 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.28,
+            "jockey_season_sr": 0.28
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 9 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 9,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Condition: 'Good' | 12s/3w/3p | Win%: 25.0% (w=0.7) | Place%: 25.0% (w=0.3) | Composite: 0.250 | Score: 3.00 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 12,
+            "condition_wins": 3,
+            "condition_places": 3,
+            "win_pct": 0.25,
+            "place_pct": 0.25
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 8 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 8,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 0.0,
+          "calculation_logic": "Weight: 58.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 100.0% | Score: 0.00 / 8.0",
+          "raw_data": {
+            "weight": 58.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Savvy Hallie",
+      "horse_id": "UNKNOWN",
+      "barrier": 13,
+      "base_rating_total": 50.26,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 13.91,
+          "calculation_logic": "Form string: '2522X113X412' | Runs scored: ['2', '5', '2', '2', 'X'] | Run details: [{'run': 1, 'result': '2', 'points': 6.0}, {'run': 2, 'result': '5', 'points': 0.0}, {'run': 3, 'result': '2', 'points': 6.0}, {'run': 4, 'result': '2', 'points': 6.0}, {'run': 5, 'result': 'X', 'points': 0.0}] | Raw score: 18.0 / 22.0 | Normalised to 17.0pts: 13.91",
+          "raw_data": {
+            "form_string": "2522X113X412",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 2,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 4,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 5,
+                "result": "X",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 18.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 2.66,
+          "calculation_logic": "Starts: 10 | Wins: 3 | Places: 5 | Win%: 30.0% | Place%: 50.0% | Composite (w=0.6, p=0.4): 0.380 | Score: 2.66 / 7.0",
+          "raw_data": {
+            "starts": 10,
+            "wins": 3,
+            "places": 5,
+            "win_pct": 0.3,
+            "place_pct": 0.5
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track: 1s/0w/1p → win%=0.0% → 1.50/5.0 | Distance: No record — neutral 2.50/5.0 | Total: 4.00 / 10.0",
+          "raw_data": {
+            "track_starts": 1,
+            "track_wins": 0,
+            "track_places": 1,
+            "dist_starts": 0,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.54,
+          "calculation_logic": "14d SR: 9.0% (w=0.5) | Season SR: 9.0% (w=0.5) | Composite: 0.090 | Score: 0.54 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.09,
+            "trainer_season_sr": 0.09
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.52,
+          "calculation_logic": "14d SR: 13.0% (w=0.5) | Season SR: 13.0% (w=0.5) | Composite: 0.130 | Score: 0.52 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.13,
+            "jockey_season_sr": 0.13
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 3.2,
+          "calculation_logic": "Condition: 'Good' | 6s/1w/3p | Win%: 16.7% (w=0.7) | Place%: 50.0% (w=0.3) | Composite: 0.267 | Score: 3.20 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 6,
+            "condition_wins": 1,
+            "condition_places": 3,
+            "win_pct": 0.1667,
+            "place_pct": 0.5
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 13 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 13,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 3.43,
+          "calculation_logic": "Weight: 55.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 57.1% | Score: 3.43 / 8.0",
+          "raw_data": {
+            "weight": 55.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Melody Again",
+      "horse_id": "UNKNOWN",
+      "barrier": 7,
+      "base_rating_total": 49.54,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 13.91,
+          "calculation_logic": "Form string: '330X11X84383' | Runs scored: ['3', '3', '0', 'X', '1'] | Run details: [{'run': 1, 'result': '3', 'points': 4.0}, {'run': 2, 'result': '3', 'points': 4.0}, {'run': 3, 'result': '0', 'points': 0.0}, {'run': 4, 'result': 'X', 'points': 0.0}, {'run': 5, 'result': '1', 'points': 10.0}] | Raw score: 18.0 / 22.0 | Normalised to 17.0pts: 13.91",
+          "raw_data": {
+            "form_string": "330X11X84383",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 2,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 3,
+                "result": "0",
+                "points": 0.0
+              },
+              {
+                "run": 4,
+                "result": "X",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "1",
+                "points": 10.0
+              }
+            ],
+            "raw_score": 18.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 1.97,
+          "calculation_logic": "Starts: 27 | Wins: 6 | Places: 10 | Win%: 22.2% | Place%: 37.0% | Composite (w=0.6, p=0.4): 0.281 | Score: 1.97 / 7.0",
+          "raw_data": {
+            "starts": 27,
+            "wins": 6,
+            "places": 10,
+            "win_pct": 0.2222,
+            "place_pct": 0.3704
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 2.05,
+          "calculation_logic": "Track: 5s/1w/2p → win%=20.0% → 1.30/5.0 | Distance: 2s/0w/1p → win%=0.0% → 0.75/5.0 | Total: 2.05 / 10.0",
+          "raw_data": {
+            "track_starts": 5,
+            "track_wins": 1,
+            "track_places": 2,
+            "dist_starts": 2,
+            "dist_wins": 0,
+            "dist_places": 1
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 7.0,
+          "calculation_logic": "Peak class: 'G2' → base score: 7.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 7.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G2",
+            "base_score": 7.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 1.2,
+          "calculation_logic": "14d SR: 20.0% (w=0.5) | Season SR: 20.0% (w=0.5) | Composite: 0.200 | Score: 1.20 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.2,
+            "trainer_season_sr": 0.2
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.56,
+          "calculation_logic": "14d SR: 14.0% (w=0.5) | Season SR: 14.0% (w=0.5) | Composite: 0.140 | Score: 0.56 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.14,
+            "jockey_season_sr": 0.14
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 8 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 8,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 3.71,
+          "calculation_logic": "Condition: 'Good' | 21s/5w/10p | Win%: 23.8% (w=0.7) | Place%: 47.6% (w=0.3) | Composite: 0.310 | Score: 3.71 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 21,
+            "condition_wins": 5,
+            "condition_places": 10,
+            "win_pct": 0.2381,
+            "place_pct": 0.4762
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 7 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 7,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 5.14,
+          "calculation_logic": "Weight: 53.5kg | Field range: 51.0-58.0kg | Relative disadvantage: 35.7% | Score: 5.14 / 8.0",
+          "raw_data": {
+            "weight": 53.5,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Shohisha",
+      "horse_id": "UNKNOWN",
+      "barrier": 6,
+      "base_rating_total": 48.0,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 12.36,
+          "calculation_logic": "Form string: '215X014177X4' | Runs scored: ['2', '1', '5', 'X', '0'] | Run details: [{'run': 1, 'result': '2', 'points': 6.0}, {'run': 2, 'result': '1', 'points': 10.0}, {'run': 3, 'result': '5', 'points': 0.0}, {'run': 4, 'result': 'X', 'points': 0.0}, {'run': 5, 'result': '0', 'points': 0.0}] | Raw score: 16.0 / 22.0 | Normalised to 17.0pts: 12.36",
+          "raw_data": {
+            "form_string": "215X014177X4",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 2,
+                "result": "1",
+                "points": 10.0
+              },
+              {
+                "run": 3,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 4,
+                "result": "X",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "0",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 16.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 1.63,
+          "calculation_logic": "Starts: 12 | Wins: 4 | Places: 1 | Win%: 33.3% | Place%: 8.3% | Composite (w=0.6, p=0.4): 0.233 | Score: 1.63 / 7.0",
+          "raw_data": {
+            "starts": 12,
+            "wins": 4,
+            "places": 1,
+            "win_pct": 0.3333,
+            "place_pct": 0.0833
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 1.75,
+          "calculation_logic": "Track: 2s/1w/0p → win%=50.0% → 1.75/5.0 | Distance: 1s/0w/0p → win%=0.0% → 0.00/5.0 | Total: 1.75 / 10.0",
+          "raw_data": {
+            "track_starts": 2,
+            "track_wins": 1,
+            "track_places": 0,
+            "dist_starts": 1,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 7.0,
+          "calculation_logic": "Peak class: 'G2' → base score: 7.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 7.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G2",
+            "base_score": 7.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.66,
+          "calculation_logic": "14d SR: 11.0% (w=0.5) | Season SR: 11.0% (w=0.5) | Composite: 0.110 | Score: 0.66 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.11,
+            "trainer_season_sr": 0.11
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.6,
+          "calculation_logic": "14d SR: 15.0% (w=0.5) | Season SR: 15.0% (w=0.5) | Composite: 0.150 | Score: 0.60 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.15,
+            "jockey_season_sr": 0.15
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Condition: 'Good' | 6s/1w/1p | Win%: 16.7% (w=0.7) | Place%: 16.7% (w=0.3) | Composite: 0.167 | Score: 2.00 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 6,
+            "condition_wins": 1,
+            "condition_places": 1,
+            "win_pct": 0.1667,
+            "place_pct": 0.1667
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 6 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 6,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Weight: 51.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 0.0% | Score: 8.00 / 8.0",
+          "raw_data": {
+            "weight": 51.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Firestorm",
+      "horse_id": "UNKNOWN",
+      "barrier": 12,
+      "base_rating_total": 43.75,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 7.73,
+          "calculation_logic": "Form string: '2037X39667X6' | Runs scored: ['2', '0', '3', '7', 'X'] | Run details: [{'run': 1, 'result': '2', 'points': 6.0}, {'run': 2, 'result': '0', 'points': 0.0}, {'run': 3, 'result': '3', 'points': 4.0}, {'run': 4, 'result': '7', 'points': 0.0}, {'run': 5, 'result': 'X', 'points': 0.0}] | Raw score: 10.0 / 22.0 | Normalised to 17.0pts: 7.73",
+          "raw_data": {
+            "form_string": "2037X39667X6",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 2,
+                "result": "0",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 4,
+                "result": "7",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "X",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 10.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 1.21,
+          "calculation_logic": "Starts: 29 | Wins: 5 | Places: 5 | Win%: 17.2% | Place%: 17.2% | Composite (w=0.6, p=0.4): 0.172 | Score: 1.21 / 7.0",
+          "raw_data": {
+            "starts": 29,
+            "wins": 5,
+            "places": 5,
+            "win_pct": 0.1724,
+            "place_pct": 0.1724
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 4.43,
+          "calculation_logic": "Track: 7s/3w/2p → win%=42.9% → 1.93/5.0 | Distance: 2s/1w/1p → win%=50.0% → 2.50/5.0 | Total: 4.43 / 10.0",
+          "raw_data": {
+            "track_starts": 7,
+            "track_wins": 3,
+            "track_places": 2,
+            "dist_starts": 2,
+            "dist_wins": 1,
+            "dist_places": 1
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.72,
+          "calculation_logic": "14d SR: 12.0% (w=0.5) | Season SR: 12.0% (w=0.5) | Composite: 0.120 | Score: 0.72 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.12,
+            "trainer_season_sr": 0.12
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.4,
+          "calculation_logic": "14d SR: 10.0% (w=0.5) | Season SR: 10.0% (w=0.5) | Composite: 0.100 | Score: 0.40 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.1,
+            "jockey_season_sr": 0.1
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.12,
+          "calculation_logic": "Condition: 'Good' | 17s/3w/3p | Win%: 17.6% (w=0.7) | Place%: 17.6% (w=0.3) | Composite: 0.176 | Score: 2.12 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 17,
+            "condition_wins": 3,
+            "condition_places": 3,
+            "win_pct": 0.1765,
+            "place_pct": 0.1765
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 12 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 12,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 5.14,
+          "calculation_logic": "Weight: 53.5kg | Field range: 51.0-58.0kg | Relative disadvantage: 35.7% | Score: 5.14 / 8.0",
+          "raw_data": {
+            "weight": 53.5,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Vivy Air",
+      "horse_id": "UNKNOWN",
+      "barrier": 9,
+      "base_rating_total": 41.33,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 10.82,
+          "calculation_logic": "Form string: '7452221218X' | Runs scored: ['7', '4', '5', '2', '2'] | Run details: [{'run': 1, 'result': '7', 'points': 0.0}, {'run': 2, 'result': '4', 'points': 2.0}, {'run': 3, 'result': '5', 'points': 0.0}, {'run': 4, 'result': '2', 'points': 6.0}, {'run': 5, 'result': '2', 'points': 6.0}] | Raw score: 14.0 / 22.0 | Normalised to 17.0pts: 10.82",
+          "raw_data": {
+            "form_string": "7452221218X",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "7",
+                "points": 0.0
+              },
+              {
+                "run": 2,
+                "result": "4",
+                "points": 2.0
+              },
+              {
+                "run": 3,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 4,
+                "result": "2",
+                "points": 6.0
+              },
+              {
+                "run": 5,
+                "result": "2",
+                "points": 6.0
+              }
+            ],
+            "raw_score": 14.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 1.8,
+          "calculation_logic": "Starts: 28 | Wins: 4 | Places: 12 | Win%: 14.3% | Place%: 42.9% | Composite (w=0.6, p=0.4): 0.257 | Score: 1.80 / 7.0",
+          "raw_data": {
+            "starts": 28,
+            "wins": 4,
+            "places": 12,
+            "win_pct": 0.1429,
+            "place_pct": 0.4286
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 2.3,
+          "calculation_logic": "Track: 5s/1w/2p → win%=20.0% → 1.30/5.0 | Distance: 3s/0w/2p → win%=0.0% → 1.00/5.0 | Total: 2.30 / 10.0",
+          "raw_data": {
+            "track_starts": 5,
+            "track_wins": 1,
+            "track_places": 2,
+            "dist_starts": 3,
+            "dist_wins": 0,
+            "dist_places": 2
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.54,
+          "calculation_logic": "14d SR: 9.0% (w=0.5) | Season SR: 9.0% (w=0.5) | Composite: 0.090 | Score: 0.54 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.09,
+            "trainer_season_sr": 0.09
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.2,
+          "calculation_logic": "14d SR: 5.0% (w=0.5) | Season SR: 5.0% (w=0.5) | Composite: 0.050 | Score: 0.20 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.05,
+            "jockey_season_sr": 0.05
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 9 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 9,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.53,
+          "calculation_logic": "Condition: 'Good' | 18s/2w/8p | Win%: 11.1% (w=0.7) | Place%: 44.4% (w=0.3) | Composite: 0.211 | Score: 2.53 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 18,
+            "condition_wins": 2,
+            "condition_places": 8,
+            "win_pct": 0.1111,
+            "place_pct": 0.4444
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 9 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 9,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 1.14,
+          "calculation_logic": "Weight: 57.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 85.7% | Score: 1.14 / 8.0",
+          "raw_data": {
+            "weight": 57.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Jenni The Fox",
+      "horse_id": "UNKNOWN",
+      "barrier": 10,
+      "base_rating_total": 40.29,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 4.64,
+          "calculation_logic": "Form string: '5754340120' | Runs scored: ['5', '7', '5', '4', '3'] | Run details: [{'run': 1, 'result': '5', 'points': 0.0}, {'run': 2, 'result': '7', 'points': 0.0}, {'run': 3, 'result': '5', 'points': 0.0}, {'run': 4, 'result': '4', 'points': 2.0}, {'run': 5, 'result': '3', 'points': 4.0}] | Raw score: 6.0 / 22.0 | Normalised to 17.0pts: 4.64",
+          "raw_data": {
+            "form_string": "5754340120",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 2,
+                "result": "7",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 4,
+                "result": "4",
+                "points": 2.0
+              },
+              {
+                "run": 5,
+                "result": "3",
+                "points": 4.0
+              }
+            ],
+            "raw_score": 6.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 0.99,
+          "calculation_logic": "Starts: 17 | Wins: 2 | Places: 3 | Win%: 11.8% | Place%: 17.6% | Composite (w=0.6, p=0.4): 0.141 | Score: 0.99 / 7.0",
+          "raw_data": {
+            "starts": 17,
+            "wins": 2,
+            "places": 3,
+            "win_pct": 0.1176,
+            "place_pct": 0.1765
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 2.5,
+          "calculation_logic": "Track: No record — neutral 2.50/5.0 | Distance: 2s/0w/0p → win%=0.0% → 0.00/5.0 | Total: 2.50 / 10.0",
+          "raw_data": {
+            "track_starts": 0,
+            "track_wins": 0,
+            "track_places": 0,
+            "dist_starts": 2,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 7.0,
+          "calculation_logic": "Peak class: 'G2' → base score: 7.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 7.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G2",
+            "base_score": 7.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.54,
+          "calculation_logic": "14d SR: 9.0% (w=0.5) | Season SR: 9.0% (w=0.5) | Composite: 0.090 | Score: 0.54 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.09,
+            "trainer_season_sr": 0.09
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.44,
+          "calculation_logic": "14d SR: 11.0% (w=0.5) | Season SR: 11.0% (w=0.5) | Composite: 0.110 | Score: 0.44 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.11,
+            "jockey_season_sr": 0.11
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.18,
+          "calculation_logic": "Condition: 'Good' | 11s/2w/2p | Win%: 18.2% (w=0.7) | Place%: 18.2% (w=0.3) | Composite: 0.182 | Score: 2.18 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 11,
+            "condition_wins": 2,
+            "condition_places": 2,
+            "win_pct": 0.1818,
+            "place_pct": 0.1818
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 10 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 10,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Weight: 51.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 0.0% | Score: 8.00 / 8.0",
+          "raw_data": {
+            "weight": 51.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "You Wahng",
+      "horse_id": "UNKNOWN",
+      "barrier": 14,
+      "base_rating_total": 39.9,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 6.18,
+          "calculation_logic": "Form string: '733051X0082' | Runs scored: ['7', '3', '3', '0', '5'] | Run details: [{'run': 1, 'result': '7', 'points': 0.0}, {'run': 2, 'result': '3', 'points': 4.0}, {'run': 3, 'result': '3', 'points': 4.0}, {'run': 4, 'result': '0', 'points': 0.0}, {'run': 5, 'result': '5', 'points': 0.0}] | Raw score: 8.0 / 22.0 | Normalised to 17.0pts: 6.18",
+          "raw_data": {
+            "form_string": "733051X0082",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "7",
+                "points": 0.0
+              },
+              {
+                "run": 2,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 3,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 4,
+                "result": "0",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "5",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 8.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 1.83,
+          "calculation_logic": "Starts: 13 | Wins: 3 | Places: 4 | Win%: 23.1% | Place%: 30.8% | Composite (w=0.6, p=0.4): 0.262 | Score: 1.83 / 7.0",
+          "raw_data": {
+            "starts": 13,
+            "wins": 3,
+            "places": 4,
+            "win_pct": 0.2308,
+            "place_pct": 0.3077
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 0.0,
+          "calculation_logic": "Track: 1s/0w/0p → win%=0.0% → 0.00/5.0 | Distance: 1s/0w/0p → win%=0.0% → 0.00/5.0 | Total: 0.00 / 10.0",
+          "raw_data": {
+            "track_starts": 1,
+            "track_wins": 0,
+            "track_places": 0,
+            "dist_starts": 1,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 1.14,
+          "calculation_logic": "14d SR: 19.0% (w=0.5) | Season SR: 19.0% (w=0.5) | Composite: 0.190 | Score: 1.14 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.19,
+            "trainer_season_sr": 0.19
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.64,
+          "calculation_logic": "14d SR: 16.0% (w=0.5) | Season SR: 16.0% (w=0.5) | Composite: 0.160 | Score: 0.64 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.16,
+            "jockey_season_sr": 0.16
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 9 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 9,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "Gear changes: ['Blinkers again', 'winkers off first time.'] | Details: [{'change': 'Blinkers again', 'points': 0.0}, {'change': 'winkers off first time.', 'points': 0.0}] | Raw score: 0.0 | Clamped score: 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": [
+              "Blinkers again",
+              "winkers off first time."
+            ],
+            "change_details": [
+              {
+                "change": "Blinkers again",
+                "points": 0.0
+              },
+              {
+                "change": "winkers off first time.",
+                "points": 0.0
+              }
+            ]
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.4,
+          "calculation_logic": "Condition: 'Good' | 8s/1w/3p | Win%: 12.5% (w=0.7) | Place%: 37.5% (w=0.3) | Composite: 0.200 | Score: 2.40 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 8,
+            "condition_wins": 1,
+            "condition_places": 3,
+            "win_pct": 0.125,
+            "place_pct": 0.375
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 14 → category: neutral | Score: 4.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 14,
+            "category": "neutral",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 5.71,
+          "calculation_logic": "Weight: 53.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 28.6% | Score: 5.71 / 8.0",
+          "raw_data": {
+            "weight": 53.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Verona Rose",
+      "horse_id": "UNKNOWN",
+      "barrier": 4,
+      "base_rating_total": 38.32,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 1.55,
+          "calculation_logic": "Form string: '468X02841X31' | Runs scored: ['4', '6', '8', 'X', '0'] | Run details: [{'run': 1, 'result': '4', 'points': 2.0}, {'run': 2, 'result': '6', 'points': 0.0}, {'run': 3, 'result': '8', 'points': 0.0}, {'run': 4, 'result': 'X', 'points': 0.0}, {'run': 5, 'result': '0', 'points': 0.0}] | Raw score: 2.0 / 22.0 | Normalised to 17.0pts: 1.55",
+          "raw_data": {
+            "form_string": "468X02841X31",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "4",
+                "points": 2.0
+              },
+              {
+                "run": 2,
+                "result": "6",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "8",
+                "points": 0.0
+              },
+              {
+                "run": 4,
+                "result": "X",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "0",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 2.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 2.05,
+          "calculation_logic": "Starts: 13 | Wins: 5 | Places: 2 | Win%: 38.5% | Place%: 15.4% | Composite (w=0.6, p=0.4): 0.292 | Score: 2.05 / 7.0",
+          "raw_data": {
+            "starts": 13,
+            "wins": 5,
+            "places": 2,
+            "win_pct": 0.3846,
+            "place_pct": 0.1538
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 2.5,
+          "calculation_logic": "Track: 1s/0w/0p → win%=0.0% → 0.00/5.0 | Distance: No record — neutral 2.50/5.0 | Total: 2.50 / 10.0",
+          "raw_data": {
+            "track_starts": 1,
+            "track_wins": 0,
+            "track_places": 0,
+            "dist_starts": 0,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.42,
+          "calculation_logic": "14d SR: 7.0% (w=0.5) | Season SR: 7.0% (w=0.5) | Composite: 0.070 | Score: 0.42 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.07,
+            "trainer_season_sr": 0.07
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.84,
+          "calculation_logic": "14d SR: 21.0% (w=0.5) | Season SR: 21.0% (w=0.5) | Composite: 0.210 | Score: 0.84 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.21,
+            "jockey_season_sr": 0.21
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.67,
+          "calculation_logic": "Condition: 'Good' | 9s/2w/2p | Win%: 22.2% (w=0.7) | Place%: 22.2% (w=0.3) | Composite: 0.222 | Score: 2.67 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 9,
+            "condition_wins": 2,
+            "condition_places": 2,
+            "win_pct": 0.2222,
+            "place_pct": 0.2222
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 4 → category: favourable | Score: 8.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 4,
+            "category": "favourable",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 2.29,
+          "calculation_logic": "Weight: 56.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 71.4% | Score: 2.29 / 8.0",
+          "raw_data": {
+            "weight": 56.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Manaal",
+      "horse_id": "UNKNOWN",
+      "barrier": 2,
+      "base_rating_total": 37.77,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 3.09,
+          "calculation_logic": "Form string: '3X955X8114X22' | Runs scored: ['3', 'X', '9', '5', '5'] | Run details: [{'run': 1, 'result': '3', 'points': 4.0}, {'run': 2, 'result': 'X', 'points': 0.0}, {'run': 3, 'result': '9', 'points': 0.0}, {'run': 4, 'result': '5', 'points': 0.0}, {'run': 5, 'result': '5', 'points': 0.0}] | Raw score: 4.0 / 22.0 | Normalised to 17.0pts: 3.09",
+          "raw_data": {
+            "form_string": "3X955X8114X22",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "3",
+                "points": 4.0
+              },
+              {
+                "run": 2,
+                "result": "X",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "9",
+                "points": 0.0
+              },
+              {
+                "run": 4,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "5",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 4.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 2.18,
+          "calculation_logic": "Starts: 18 | Wins: 6 | Places: 5 | Win%: 33.3% | Place%: 27.8% | Composite (w=0.6, p=0.4): 0.311 | Score: 2.18 / 7.0",
+          "raw_data": {
+            "starts": 18,
+            "wins": 6,
+            "places": 5,
+            "win_pct": 0.3333,
+            "place_pct": 0.2778
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 1.7,
+          "calculation_logic": "Track: 5s/2w/1p → win%=40.0% → 1.70/5.0 | Distance: 1s/0w/0p → win%=0.0% → 0.00/5.0 | Total: 1.70 / 10.0",
+          "raw_data": {
+            "track_starts": 5,
+            "track_wins": 2,
+            "track_places": 1,
+            "dist_starts": 1,
+            "dist_wins": 0,
+            "dist_places": 0
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 1.14,
+          "calculation_logic": "14d SR: 19.0% (w=0.5) | Season SR: 19.0% (w=0.5) | Composite: 0.190 | Score: 1.14 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.19,
+            "trainer_season_sr": 0.19
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.36,
+          "calculation_logic": "14d SR: 9.0% (w=0.5) | Season SR: 9.0% (w=0.5) | Composite: 0.090 | Score: 0.36 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.09,
+            "jockey_season_sr": 0.09
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "Gear changes: ['Winkers first time.'] | Details: [{'change': 'Winkers first time.', 'points': 0.0}] | Raw score: 0.0 | Clamped score: 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": [
+              "Winkers first time."
+            ],
+            "change_details": [
+              {
+                "change": "Winkers first time.",
+                "points": 0.0
+              }
+            ]
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 3.3,
+          "calculation_logic": "Condition: 'Good' | 12s/3w/4p | Win%: 25.0% (w=0.7) | Place%: 33.3% (w=0.3) | Composite: 0.275 | Score: 3.30 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 12,
+            "condition_wins": 3,
+            "condition_places": 4,
+            "win_pct": 0.25,
+            "place_pct": 0.3333
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 2 → category: favourable | Score: 8.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 2,
+            "category": "favourable",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 0.0,
+          "calculation_logic": "Weight: 58.0kg | Field range: 51.0-58.0kg | Relative disadvantage: 100.0% | Score: 0.00 / 8.0",
+          "raw_data": {
+            "weight": 58.0,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    },
+    {
+      "horse_name": "Arctic Glamour",
+      "horse_id": "UNKNOWN",
+      "barrier": 1,
+      "base_rating_total": 37.12,
+      "rating_breakdown": [
+        {
+          "factor_name": "Recent Form",
+          "points_allocated": 17.0,
+          "points_scored": 0.0,
+          "calculation_logic": "Form string: '575X6X00X1203' | Runs scored: ['5', '7', '5', 'X', '6'] | Run details: [{'run': 1, 'result': '5', 'points': 0.0}, {'run': 2, 'result': '7', 'points': 0.0}, {'run': 3, 'result': '5', 'points': 0.0}, {'run': 4, 'result': 'X', 'points': 0.0}, {'run': 5, 'result': '6', 'points': 0.0}] | Raw score: 0.0 / 22.0 | Normalised to 17.0pts: 0.00",
+          "raw_data": {
+            "form_string": "575X6X00X1203",
+            "run_details": [
+              {
+                "run": 1,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 2,
+                "result": "7",
+                "points": 0.0
+              },
+              {
+                "run": 3,
+                "result": "5",
+                "points": 0.0
+              },
+              {
+                "run": 4,
+                "result": "X",
+                "points": 0.0
+              },
+              {
+                "run": 5,
+                "result": "6",
+                "points": 0.0
+              }
+            ],
+            "raw_score": 0.0
+          }
+        },
+        {
+          "factor_name": "Career Record",
+          "points_allocated": 7.0,
+          "points_scored": 1.34,
+          "calculation_logic": "Starts: 24 | Wins: 3 | Places: 7 | Win%: 12.5% | Place%: 29.2% | Composite (w=0.6, p=0.4): 0.192 | Score: 1.34 / 7.0",
+          "raw_data": {
+            "starts": 24,
+            "wins": 3,
+            "places": 7,
+            "win_pct": 0.125,
+            "place_pct": 0.2917
+          }
+        },
+        {
+          "factor_name": "Track & Distance",
+          "points_allocated": 10.0,
+          "points_scored": 3.42,
+          "calculation_logic": "Track: 6s/2w/3p → win%=33.3% → 1.92/5.0 | Distance: 2s/0w/2p → win%=0.0% → 1.50/5.0 | Total: 3.42 / 10.0",
+          "raw_data": {
+            "track_starts": 6,
+            "track_wins": 2,
+            "track_places": 3,
+            "dist_starts": 2,
+            "dist_wins": 0,
+            "dist_places": 2
+          }
+        },
+        {
+          "factor_name": "Class",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Peak class: 'G1' → base score: 8.0 | Runs since peak: 0 (threshold: 3) | Recency penalty: -0.0 | Final: 8.00 / 8.0",
+          "raw_data": {
+            "peak_class": "G1",
+            "base_score": 8.0,
+            "runs_since_peak": 0,
+            "penalty_applied": 0.0
+          }
+        },
+        {
+          "factor_name": "Trainer Form",
+          "points_allocated": 6.0,
+          "points_scored": 0.9,
+          "calculation_logic": "14d SR: 15.0% (w=0.5) | Season SR: 15.0% (w=0.5) | Composite: 0.150 | Score: 0.90 / 6.0",
+          "raw_data": {
+            "trainer_14d_sr": 0.15,
+            "trainer_season_sr": 0.15
+          }
+        },
+        {
+          "factor_name": "Jockey Skill",
+          "points_allocated": 4.0,
+          "points_scored": 0.48,
+          "calculation_logic": "14d SR: 12.0% (w=0.5) | Season SR: 12.0% (w=0.5) | Composite: 0.120 | Score: 0.48 / 4.0",
+          "raw_data": {
+            "jockey_14d_sr": 0.12,
+            "jockey_season_sr": 0.12
+          }
+        },
+        {
+          "factor_name": "Days Since Last Run",
+          "points_allocated": 5.0,
+          "points_scored": 4.0,
+          "calculation_logic": "Days since last run: 14 | Band matched: 0-14 days | Score: 4.0 / 5.0",
+          "raw_data": {
+            "days_since_last_run": 14,
+            "override_applied": false
+          }
+        },
+        {
+          "factor_name": "Gear Changes",
+          "points_allocated": 3.0,
+          "points_scored": 0.0,
+          "calculation_logic": "No gear changes — awarded 0.0 / 3.0",
+          "raw_data": {
+            "gear_changes": []
+          }
+        },
+        {
+          "factor_name": "Track Condition",
+          "points_allocated": 12.0,
+          "points_scored": 2.12,
+          "calculation_logic": "Condition: 'Good' | 17s/3w/3p | Win%: 17.6% (w=0.7) | Place%: 17.6% (w=0.3) | Composite: 0.176 | Score: 2.12 / 12.0",
+          "raw_data": {
+            "condition": "Good",
+            "condition_starts": 17,
+            "condition_wins": 3,
+            "condition_places": 3,
+            "win_pct": 0.1765,
+            "place_pct": 0.1765
+          }
+        },
+        {
+          "factor_name": "Barrier Draw",
+          "points_allocated": 8.0,
+          "points_scored": 8.0,
+          "calculation_logic": "Track config: 'DEFAULT' | Barrier: 1 → category: favourable | Score: 8.0 / 8.0",
+          "raw_data": {
+            "track_id": "RHIL_1500",
+            "barrier": 1,
+            "category": "favourable",
+            "config_used": "DEFAULT"
+          }
+        },
+        {
+          "factor_name": "Weight Carried",
+          "points_allocated": 8.0,
+          "points_scored": 2.86,
+          "calculation_logic": "Weight: 55.5kg | Field range: 51.0-58.0kg | Relative disadvantage: 64.3% | Score: 2.86 / 8.0",
+          "raw_data": {
+            "weight": 55.5,
+            "min_weight": 51.0,
+            "max_weight": 58.0
+          }
+        },
+        {
+          "factor_name": "Field Size",
+          "points_allocated": 4.0,
+          "points_scored": 2.0,
+          "calculation_logic": "Field size: 14 runners | Band: 13-16 | Score: 2.0 / 4.0",
+          "raw_data": {
+            "field_size": 14
+          }
+        },
+        {
+          "factor_name": "Rail Position",
+          "points_allocated": 5.0,
+          "points_scored": 3.0,
+          "calculation_logic": "Rail: TRUE (0m) | Score: 3.0 / 5.0",
+          "raw_data": {
+            "rail_position": "True",
+            "parsed_metres": 0,
+            "description": "true rail"
+          }
+        },
+        {
+          "factor_name": "Pace Pressure",
+          "points_allocated": 3.0,
+          "points_scored": 1.0,
+          "calculation_logic": "Front-runners: 5 | Scenario: 'Hot pace — favours off-pace runners' | Score: 1.0 / 3.0",
+          "raw_data": {
+            "num_front_runners": 5,
+            "scenario": "Hot pace — favours off-pace runners"
+          }
+        }
+      ],
+      "config_version": "1.2.0"
+    }
+  ]
+}

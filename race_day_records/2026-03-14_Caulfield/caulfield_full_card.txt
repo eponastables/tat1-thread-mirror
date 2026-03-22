@@ -1,0 +1,147 @@
+CAULFIELD — 14 MARCH 2026
+Rail: Out 9m Entire Circuit
+======================================================================
+
+R1 | DCE (Bm84) | 2000m | Benchmark 84; | Prize: 80000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Xtra Rush                5   59.2     Richard Laming                 Logan Bates              56    111x13               {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Sir Chartwell            3   49.5     Annabel & Rob Archibald        Jamie Mott               58.5  71262x0975x0         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Wineglass Bay            5   48.4     J K Blacker                                             59.5  111x0863375          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Foujita San              4   45.8     Shane Jackson                  Ryan Houston             59.5  422x9005782          {'recordType': '', 'starts': 5, 'firsts': 1, 'seconds': 1, 'thirds': 0} -
+5   Grey Ice                 5   44.4     S B Laming                                              54.5  7447x14x7218         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Stylish Secret           7   42.9     Mick Nolan                     Luke Cartwright          57.5  9761x075318          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 1} -
+7   Sunsets                  1   37.8     Ben, Will & Jd Hayes           Lachlan Neindorf         55.5  5x06899x3368         {'recordType': '', 'starts': 4, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+8   Furious                  2   37.5     M, W & J Hawkes                Jamie Melham             57    8x4293x89169         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers first time, visors off first time. 
+9   Jimi Hendrix             6   30.4     Annabel & Rob Archibald        Jackson Radley           59.5  08x600x8809x6        {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R2 | The Murray Thoroughbreds Mystic Journey  | 1100m | Open; | Prize: 175000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Soft Love                5   61.4     M M Laurie                     Harry Coffey             55    1x11725x270x8        {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} Blinkers first time, winkers off first time. 
+2   Gentle Steel             4   58.2     Julius Sandhu                  Jamie Mott               55    41144x11             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Always Enuff             4   55.9     Shane Nichols & Hayden Black                            55    3x1100x51842         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Sixteen Reasons          5   51.6     Will Clarken                                            55    6243x137753x         {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+5   Ameena                   1   51.5     A & S Freedman                                          55    1277x24x5580x        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers off first time. 
+6   Oh Too Good              2   51.1     Kevin Daffy                    Daniel Stackhouse        58    3x341827140x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Synthetic hoof filler off first time. 
+7   Photograph               1   49.3     Ben, Will & Jd Hayes           Jamie Melham             55    112x619x6446x        {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   She's Got Pizzazz        3   48.5     P G Moody & Katherine Coleman  Luke Nolen               58    151x6210x760x        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R6 | Barastoc Country Mile Series Final (Bm80) | 1600m | Benchmark 80; | Prize: 200000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Sakakibara               3   54.6     Symon Wilde                    Harry Coffey             54    133                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Torn                     13  52.4     Ben Brisbourne                 Jye McNeil               54    22310x45283          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Nic's Choice             7   47.2     J F Moloney                    Luke Cartwright          55    10x5120x5221         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Delta Sky                5   45.1     Lee & Shannon Hope             Ryan Houston             54    1773x900352          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Zeshadow                 1   44.8     Andrew Noblet                  Luke Currie              54    1x9x615405x51        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   She's Impeccable         9   43.7     Shane Jackson                  Tom Madden               54    6513825311           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Cachink                  11  39.8     M J Williams                   Declan Bates             54    5x8298x48325         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Colour Our World         8   39.6     M J Williams                   Dean Yendall             54    25330x16382          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Buillt                   6   38.4     Andrew Bobbin                  John Allen               60    12x3609x9202         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+10  Sir Atlas                2   36.9     L Smith                        Will Gordon              59.5  6x2726x365x41        {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+11  Cat Noir                 4   33.2     Jamie Edwards                  Teodore Nugent           54.5  5558x051312          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Inherently               10  32.7     P W McKenna                    Zac Spain                54    7x90812x1x2x32       {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+13  Brung King               12  28.0     Henry Dwyer                    Jamie Mott               59    7x205561102          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R4 | Avenel Equine Hospital VOBIS Gold Distaff  | 1400m | Open; | Prize: 200000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Bossy Benita             5   55.5     M J Mehegan                    Daniel Stackhouse        59.5  3116x1210x31         {'recordType': '', 'starts': 2, 'firsts': 2, 'seconds': 0, 'thirds': 0} -
+2   Yum                      6   55.1     John McArdle                   Jamie Mott               54    7x31169x4            {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+3   Sister Shay              2   54.5     C D Widdison                   Teodore Nugent           54    2221x611813x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Teine Aulelei            1   51.5     Luke Oliver                    Harry Coffey             54    13x3527x6            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Merrigold                8   51.3     J D Sadler                     Jye McNeil               54.5  11x30584312          {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+6   Betwitchery              3   47.6     L & T Corstens & W Larkin      Luke Cartwright          53    26418x69141          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Flying Fizz              4   45.1     M J Williams                   Declan Bates             54    5x51347x5575x        {'recordType': '', 'starts': 3, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+8   Miss Playlounge          7   41.3     C W McDonald                   Jamie Melham             54    168x6171917          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Gellhorn                 1   40.9     M C Kent                                                54    27x34218x119         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R3 | Two Bays Farm VOBIS Gold So Si Bon  | 1400m | Open; | Prize: 200000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Athanatos                3   55.0     P Stokes                       Lachlan Neindorf         55    22121x36346x         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+2   Harry's Yacht            4   54.2     L & T Corstens & W Larkin      Jamie Melham             54    417x1231431          {'recordType': '', 'starts': 3, 'firsts': 2, 'seconds': 0, 'thirds': 1} -
+3   Foxenberg                1   53.0     Clayton Douglas                Luke Cartwright          54    13639x152            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Veight                   2   50.6     T & C McEvoy                   Jackson Radley           61    421x090x0x238        {'recordType': '', 'starts': 4, 'firsts': 0, 'seconds': 0, 'thirds': 1} Blinkers again, blinkers (off side) off again, bubble cheeker (off side) again, lugging bit again, standard bit off again. 
+5   Al Duca                  6   47.4     A & S Freedman                 Luke Currie              54    2612x211421x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   The Shaper               5   44.8     D J McCarthy                   Ryan Houston             54    5305100x773          {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+7   Enxuto                   5   42.8     R D Griffiths                                           56.5  18x75342432          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R5 | Cylinder VOBIS Gold Dash | 1200m | Open; | Prize: 200000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Purple Streak            3   50.2     L & T Corstens & W Larkin      Jamie Melham             57    1                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Millennium Blade         2   49.1     M Price & M Kent Jnr           Jamie Mott               57    323x18               {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+3   Toronado Queen           10  47.0     G Eurell                       Logan Bates              58    12x10                {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Hook 'n' Spur            9   45.8     Gavin Bedggood                 Jason Maskiell           56.5  7x12                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Wintery                  5   45.6     Aaron Purcell                  Tom Madden               59    337x3126126          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   High On The Hill         4   44.8     C Maher                        John Allen               56.5  4x1                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Empire Song              6   41.2     M Price & M Kent Jnr           Beau Mertens             56    5x1x                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Rohesia                  8   40.8     Ben, Will & Jd Hayes           Luke Currie              58    3x6x12325x29         {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Nostra Bella             7   39.8     Karlene Tindale                Dean Yendall             54    59x41849078          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers off first time. 
+10  Sea Trader               1   37.4     R D Griffiths                  Patrick Moloney          56    8x15                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R10 | Yulong VOBIS Gold Sprint  | 1200m | Open; | Prize: 200000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Ndola                    5   62.5     Ben, Will & Jd Hayes           Luke Currie              54.5  293x1137221          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+2   She's Bulletproof        3   59.6     Charlotte Littlefield          Ben Melham               57    22125x0103x9         {'recordType': '', 'starts': 3, 'firsts': 1, 'seconds': 1, 'thirds': 1} -
+3   Corniche                 1   57.9     Shawn Mathrick                 Craig Newitt             55    23410x0x360x2        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Jakivy                   2   49.1     Kasey Besanko                  Beau Mertens             54    511256x2432          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Immortal Star            5   44.4     C Maher                                                 54    846x3612113          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers off first time. 
+6   Perilous Fighter         4   41.6     Clayton Douglas                Luke Cartwright          53    7025817414           {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Jigsaw                   7   35.9     Ms C Alderson                  Logan Bates              61    35x760x41111         {'recordType': '', 'starts': 5, 'firsts': 1, 'seconds': 0, 'thirds': 1} -
+8   Raikoke                  6   34.1     M Price & M Kent Jnr           Jamie Melham             53    09x40471640x         {'recordType': '', 'starts': 3, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+
+R8 | Sportsbet Peter Young Stakes | 1800m | Open; | Prize: 500000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Chief Little Rock        5   50.9     A & S Freedman                                          59    2122x310x            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Cross-over nose band first time, gelded , hanoverian nose band off first time. 
+2   Bankers Choice           4   49.3     Ben, Will & Jd Hayes           Daniel Stackhouse        59    4211372030x          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers off again, lugging bit first time, norton bit off first time. 
+3   Light Infantry Man       1   46.4     C Maher                        Harry Coffey             59    310x0695521          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Birdman                  5   42.7     C J Waller                     Ben Melham               59    29x251768x41         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Basilinna                7   41.6     E & D Browne                   Dean Yendall             57    3800x10221x7x        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Apulia                   6   37.3     Ben, Will & Jd Hayes           Luke Currie              59    98x23x110115         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Buckaroo                 2   36.2     C J Waller                     Jye McNeil               59    9x970x32320x2        {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 1, 'thirds': 0} -
+8   Whisky On The Hill       3   35.7     Glen Thompson                  Declan Bates             59    3x8591351x56         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+
+R9 | The IRT VOBIS Platinum Guineas | 1600m | Open; | Prize: 500000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Salty Pearl              3   59.9     C Maher                        John Allen               56    231x3341x323         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers again. 
+2   Veyepee                  4   51.8     A & S Freedman                 Jamie Melham             58    11                   {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Silvasista               5   50.6     T & C McEvoy                   Harry Coffey             56    30x1                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Celibate                 16  49.0     M J Williams                   Dean Yendall             56    160x33               {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Itazura                  9   45.2     P G Moody & Katherine Coleman  Zac Spain                58    3x31833              {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Storm Leopard            14  44.9     Ben, Will & Jd Hayes           Luke Nolen               58    4121                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Missy Aggravation        8   43.4     L & T Corstens & W Larkin      Luke Currie              56    6x6133               {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Wetumpka                 6   43.0     Peter Gelagotis                Jye McNeil               58    224x281              {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers off first time. 
+9   Star Of Omaha            7   42.6     Andrew Angelone                Tom Madden               56    7714x3               {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+10  Diamond Gust             1   42.0     M M Laurie                     Jamie Mott               58    61x33x4321           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Pavlich                  12  41.2     M M Laurie                     Patrick Moloney          58    31x3                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers first time, winkers off first time. 
+12  The Benchmark            13  40.8     M J Mehegan                    Daniel Stackhouse        58    2316                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+13  Cinturato                11  39.2     M W Walker                     Lachlan Neindorf         58    36x1                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers first time. 
+14  Ornos                    10  38.9     D T O'Brien                    Jordan Childs            58    129x64326x67         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+15  Merimbula                5   34.8     M M Laurie                                              58    45x81x0              {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers first time. 
+16  Arabian Prince           2   30.9     M C Kent                       Billy Egan               58    3566x                {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+17  Different Gravy          15  25.5     Henry Dwyer                    Ben Melham               58    5x39x51211x          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R7 | The TBV VOBIS Platinum Showdown | 1200m | Open; | Prize: 1000000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Miss Chanel              11  52.7     G Waterhouse & A Bott          Jordan Childs            56    3243                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Lagunanini               1   51.0     T Busuttin & N Young           Beau Mertens             56    1                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Knurl                    9   43.4     T & C McEvoy                   Harry Coffey             58    410x                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Gelded , winkers off first time. 
+4   Milsons Point            10  42.6     C Maher                        Ben Melham               58    120                  {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Cross-over nose band again. 
+5   Big Wigs                 12  38.5     P Stokes                       Lachlan Neindorf         58    22                   {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers first time. 
+6   Jourama                  5   37.8     A & S Freedman                 Jamie Mott               58    2                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Tagabella                7   37.6     K & K Keys                     Luke Currie              56    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   The Troubleshooter       2   34.4     J D Sadler                     Jye McNeil               58    3                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers first time. 
+9   Lomu                     3   33.6     E & D Browne                   Dean Yendall             58    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Lugging bit first time. 
+10  Golden Trove             4   33.4     Rodney Foster                  John Allen               58    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Cross-over nose band first time, tongue tie first time. 
+11  Phillip Island           6   32.0     M Price & M Kent Jnr           Jamie Melham             58    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Stallion chain first time. 
+12  Valaroso                 8   32.0     Ms C Alderson                  Logan Bates              58    None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+
+END OF CARD

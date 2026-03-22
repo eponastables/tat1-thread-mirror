@@ -1,0 +1,173 @@
+ROSEHILL GUINEAS DAY — 14 MARCH 2026
+Rail: True | Track: TBC
+======================================================================
+
+R1 | Midway (Bm72) | 1200m | Benchmark 72; | Prize: 120000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   La Signora Dane          3   48.4     Richard Litt                   Rachel King              54    13177x76976          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Zaragoza                 8   42.5     R & L Price                    Tommy Berry              57.5  1231x365387          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Oryx                     2   40.8     Richard Litt                   Tom Sherry               57    4342x161664          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Killer Kerr              12  39.0     Peter D Green                                           54    15330048x56          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Jambalaya                1   37.6     Richard Litt                   James Mc Donald          56    5674176334           {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Audrey's Lane            7   37.5     Brad Widdup                    Alysha Collett           56    19x3522x2145x        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Opal Fields              13  36.4     Sara Ryan                      Ashley Morgan            54    51x6570x8659         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Apache Breeze            10  34.6     Wayne Seelin                                            54.5  6287362578           {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 2, 'thirds': 0} -
+9   Equilibrist              11  34.5     K J Parker                     Jay Ford                 57.5  1042x657317          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+10  Everyone's A Star        12  33.1     Marc Chevalier                 Tyler Schiller           57.5  557307x3124          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Don't Doubt Merlin       15  32.2     R J Quinton                                             58.5  1356x7637x21         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Agita                    16  30.0     David Payne                                             59.5  0954316015x          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+13  Debello                  9   27.2     G Portelli                     Adam Hyeronimus          59    23x9534165x7         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+14  Flightcrew               10  26.5     Lee & Cherie Curtis            Zac Lloyd                56.5  4x56x8236226         {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+15  Broadway Bouncer         5   26.2     Ms K Buchanan                  Dylan Gibbons            57.5  8x058597447          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs off first time, ear muffs (pre-race only) again. 
+16  African Daisy            4   24.8     J C Deamer                     Braith Nock              60.5  579x7016417x         {'recordType': '', 'starts': 3, 'firsts': 2, 'seconds': 0, 'thirds': 0} -
+17  Norton Road              14  23.6     R A Bailey                     Reece Jones              57    89x895x1226x0        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+18  Mailata                  6   23.4     Bryce Heys                     Pierre Boudvillain       59.5  5942x414762          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers off first time. 
+
+R2 | Cactus Imaging (Bm78) | 1900m | Benchmark 78; | Prize: 160000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Saint Emilion            4   58.4     C Maher                        Tim Clark                56    7118x0847x94         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   O'sheamus                3   57.8     John O'Shea & Tom Charlton     Dylan Gibbons            55    4x46139x5            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Iceman                   5   56.8     C E Conners                    Nash Rawiller            56    5322151x232          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Unleeshing               7   51.7     Bjorn Baker                    Jason Collett            58    1x226x33115          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Tazima                   2   46.7     C J Waller                     James Mc Donald          57    71x42133x63          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   The Western Front        6   43.8     Ben, Will & Jd Hayes           Craig Williams           57    162x6913x441         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Nkosi                    1   34.0     Bjorn Baker                    Tommy Berry              59    5651x1712x80         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} Tongue tie first time. 
+8   Super Helpful            8   33.7     B Joseph & P & M Jones         Alysha Collett           59    9534064029           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R5 | Asahi Super Dry Sky High Stakes | 2000m | Open; | Prize: 350000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Soul Of Spain            2   58.1     C J Waller                     Tommy Berry              56.5  731x11123x94         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Trinity College          1   54.4     C J Waller                                              56.5  4142x12412x7         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Zarir                    3   52.7     C J Waller                     Sam Clipperton           56    4x112352x97x0        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   River Of Stars           1   50.2     C J Waller                     Kerrin Mc Evoy           54    42x73x78024x0        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Vauban                   7   48.0     G Waterhouse & A Bott          Tim Clark                57.5  20x130x36506x        {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} Cross-over nose band off again, tongue tie off again. 
+6   Just Fine                4   43.4     G Waterhouse & A Bott          Regan Bayliss            56.5  050100x929x9         {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+7   Wootton Verni            6   41.7     C J Waller                     James Mc Donald          56.5  2x75x85411x75        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Birdman                  7   38.6     C J Waller                                              57.5  29x251768x41         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Valiant King             5   33.4     C J Waller                     Zac Lloyd                56.5  0x0693x0130x8        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R4 | TAB Pago Pago Stakes | 1200m | Open; | Prize: 250000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Warwoven                 8   54.6     Bjorn Baker                    Rachel King              56.5  114                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Star Of Jamaica          7   50.1     Chris & Corey Munce            Nash Rawiller            56.5  2143                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Forest King              2   43.9     John O'Shea & Tom Charlton     Dylan Gibbons            56.5  1                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs (pre-race only) first time. 
+4   Drumfire                 12  40.5     G Waterhouse & A Bott                                   56.5  1                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Central Europe           6   40.3     C J Waller                     James Mc Donald          56.5  2                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Euripedes                4   38.1     Bjorn Baker                    Kerrin Mc Evoy           56.5  3x2                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Outspan                  3   35.8     Michael Freedman               Sam Clipperton           56.5  518                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Amazone                  1   33.9     C J Waller                     Tommy Berry              56.5  None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs (pre-race only) first time, lugging bit first time. 
+9   Plagiarism               5   33.5     G Waterhouse & A Bott                                   56.5  3x65                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+10  Concrete Storm           4   31.3     John O'Shea & Tom Charlton                              56.5  9                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  High Alert               5   30.6     A & S Freedman                 Jason Collett            56.5  457                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Cross-over nose band first time. 
+12  Persian Wonder           9   30.0     David Payne                    Chad Schofield           56.5  7x63                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+
+R3 | Tresemm Magic Night Stakes | 1200m | Open; | Prize: 250000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Lumbini                  1   53.1     G Waterhouse & A Bott          Adam Hyeronimus          56.5  127                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   By Choice                4   51.4     G Waterhouse & A Bott          Tim Clark                56.5  1533                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Ciaron's Star            3   47.8     C Maher                        Chad Schofield           56.5  316                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Synthetic hoof filler first time, tongue tie first time. 
+4   Pembrey                  7   41.5     T J Gollan                     James Mc Donald          56.5  15                   {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+5   Lagunanini               8   37.8     T Busuttin & N Young                                    56.5  1                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Hardanger                6   37.5     Michael Freedman               Tommy Berry              56.5  334                  {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Hellenic Belle           5   34.0     Annabel & Rob Archibald        Zac Lloyd                56.5  None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Cross-over nose band first time, ear muffs (pre-race only) first time. 
+8   Arrest Warrant           5   32.8     Mark Cross                                              56.5  None         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Affari                   6   32.6     C J Waller                                              56.5  3                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Lugging bit first time. 
+10  Wave Blaster             2   30.9     T J Bartley                    Alysha Collett           56.5  49                   {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Ektifire                 8   28.0     A & S Freedman                 Craig Williams           56.5  5                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Zoo Dazzler              10  20.1     A & S Freedman                                          56.5  9                    {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs (pre-race only) first time, stallion chain first time. 
+
+R10 | Schweppes (Bm88) | 1400m | Benchmark 88; | Prize: 160000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Modella                  2   56.7     Lee & Cherie Curtis            Zac Lloyd                55    21255x3718x5         {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+2   Amreekiyah               1   52.1     Peter Snowden                  Jason Collett            54    11x148x4661          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Perfumist                7   48.8     Bjorn Baker                    Regan Bayliss            61    1125x604120x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Sovereign Hill           9   47.0     G Waterhouse & A Bott          Tim Clark                55.5  1x723x78x112         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+5   Charcoals                12  46.1     A & S Freedman                                          58.5  51161114x53          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Glint Of Silver          5   45.5     David Pfieffer                 Tyler Schiller           57.5  24x279x498x94        {'recordType': '', 'starts': 4, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+7   Geriatrix                4   41.9     C J Waller                                              57.5  2368x50007x8         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   No Drama                 5   41.3     Matthew Dale                                            55    7510239x172          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+9   Captain Furai            3   38.6     C J Waller                     James Mc Donald          56.5  478x26324x31         {'recordType': '', 'starts': 4, 'firsts': 1, 'seconds': 1, 'thirds': 0} -
+10  Bandi's Boy              4   38.5     D A Williams                   Rachel King              59.5  2790464498           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Equicast off first time. 
+11  Emirate                  17  37.6     C J Waller                                              55    1x55x567084x8        {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Uzziah                   7   36.1     Scott Aspery                                            55.5  880537x3241          {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+13  Cristal Clear            16  34.0     Annabel & Rob Archibald                                 63    74x44111266x         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+14  Gravina                  8   33.1     Matthew Dale                                            57.5  3784527x556          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers again. 
+15  Eye Of The Fire          6   32.5     Annabel & Rob Archibald        Adam Hyeronimus          58    3x04455x1242         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+16  Althoff                  10  30.9     C J Waller                     Nash Rawiller            58    9565x6x34118         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+17  Elson Boy                8   27.3     Dar Lunn                       Braith Nock              55    0x9901x86507         {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+18  Cavalier Charles         11  25.8     Matthew Dale                                            57.5  6400x4x52247         {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+
+R9 | Hyland Race Colours Ajax Stakes | 1500m | Open; | Prize: 300000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Lord Penman              10  60.9     C J Waller                     Zac Lloyd                53    1191x27720x1         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Thunderlips              8   54.4     Bjorn Baker                    Dylan Gibbons            53    21147x04269          {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+3   Portland                 6   51.0     Matthew Smith                  Kerrin Mc Evoy           53    343x24183x7x7        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Globe                    11  50.4     M Price & M Kent Jnr           Tommy Berry              59    4x4213x0x2421x       {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Equicast off again, synthetic hoof filler first time. 
+5   Enxuto                   2   50.2     R D Griffiths                  Tyler Schiller           53    18x75342432          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Robusto                  5   49.9     Bjorn Baker                    Tim Clark                57    0217777320           {'recordType': '', 'starts': 8, 'firsts': 2, 'seconds': 2, 'thirds': 1} -
+7   Cristal Clear            3   49.3     Annabel & Rob Archibald        Braith Nock              53    74x44111266x         {'recordType': '', 'starts': 2, 'firsts': 2, 'seconds': 0, 'thirds': 0} -
+8   War Eternal              9   48.8     Bjorn Baker                    Rachel King              53    5x82169x9045         {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+9   Sandpaper                4   42.9     Bjorn Baker                    Jason Collett            56.5  515x0702615          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+10  Willaidow                7   40.4     Marc & Mitchell Conners        Chad Schofield           56    52048x576x10         {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+11  Militarize               1   36.9     C J Waller                     James Mc Donald          57.5  0546x57523x4         {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+
+R8 | Coolmore Classic | 1500m | Open; | Prize: 1000000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Cinsault                 5   64.5     Michael Freedman               Tim Clark                55    2x2321x14111         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Cilacap                  3   59.9     G M Begg                       Rachel King              51    3111610x76           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+3   Ole Dancer               11  56.5     P G Moody & Katherine Coleman  Zac Lloyd                55    1x1521x23            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Lazzura                  8   50.7     C J Waller                     James Mc Donald          58    43124x1155x2         {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 1, 'thirds': 0} -
+5   Savvy Hallie             13  50.3     Brad Widdup                    Nash Rawiller            55    2522x113x412         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Melody Again             7   49.5     S I Singleton                  Winona Costin            53.5  330x11x84383         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+7   Shohisha                 6   48.0     David Payne                    Andrew Adkins            51    215x014177x4         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Firestorm                12  43.8     C J Waller                     Tyler Schiller           53.5  2037x39667x6         {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 1, 'thirds': 0} -
+9   Vivy Air                 9   41.3     C Maher                        Reece Jones              57    7452221218x          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+10  Jenni The Fox            10  40.3     C Maher                        Jett Stanley             51    5754340120           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  You Wahng                14  39.9     K A Lees                       Dylan Gibbons            53    733051x0082          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Blinkers again, winkers off first time. 
+12  Verona Rose              4   38.3     G Portelli                     Craig Williams           56    468x02841x31         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+13  Manaal                   2   37.8     Michael Freedman               Jason Collett            58    3x955x8114x22        {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers first time. 
+14  Arctic Glamour           1   37.1     G Ryan & S Alexiou             Tom Sherry               55.5  575x6x00x1203        {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 2, 'thirds': 0} -
+
+R6 | Toyota Forklifts Maurice McCarten Stakes | 1100m | Open; | Prize: 250000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Signor Tortoni           3   60.7     R J Quinton                    Kerrin Mc Evoy           54.5  22x21131x911         {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+2   Flying For Fun           1   59.9     Bryce Heys                     Zac Lloyd                56    11x252x83271x        {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+3   La Fracas                4   58.1     M Price & M Kent Jnr           Craig Williams           55.5  6x1426x11114x        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   King's Secret            2   56.0     Joseph Pride                   Andrew Adkins            56    3x121511x311         {'recordType': '', 'starts': 4, 'firsts': 2, 'seconds': 0, 'thirds': 1} -
+5   Tonkin                   7   55.2     A & S Freedman                 Tim Clark                54.5  2x111x122x2          {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} Synthetic hoof filler first time. 
+6   Don't Hope Do            6   54.7     Simon Zahra                    Jason Collett            54.5  439x13413x20         {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Mal Coupe                5   53.1     Stephen O'Halloran             Winona Costin            54.5  45x212111x11         {'recordType': '', 'starts': 1, 'firsts': 1, 'seconds': 0, 'thirds': 0} -
+8   Shezanalister            8   49.7     Bjorn Baker                    Rachel King              54.5  7x130200x200x        {'recordType': '', 'starts': 4, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+9   Kerguelen                9   47.1     Joseph Pride                   Adam Hyeronimus          57    2x14421351x1         {'recordType': '', 'starts': 2, 'firsts': 1, 'seconds': 0, 'thirds': 1} -
+10  Lulumon                  11  45.1     J C Coyle                                               54.5  8x101343x365         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+11  Enriched                 9   43.3     Michael Freedman                                        58    1630x3121x72         {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+12  Eye Of The Fire          10  38.2     Annabel & Rob Archibald                                 54.5  3x04455x1242         {'recordType': '', 'starts': 4, 'firsts': 1, 'seconds': 2, 'thirds': 1} -
+
+R7 | Chandon Phar Lap Stakes | 1500m | Open; | Prize: 300000
+#   Horse                    B   Rating   Trainer                        Jockey                   Wt    Form         T/D        Gear
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1   Panova                   11  60.8     C J Waller                     Tommy Berry              54.5  24211x6              {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+2   Soverato                 2   58.6     C J Waller                     Kerrin Mc Evoy           54.5  41x12                {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 1, 'thirds': 0} -
+3   Long Legs                12  57.1     G Portelli                                              54.5  24x13x34             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+4   Shangri La Boy           6   54.1     G Waterhouse & A Bott          Nash Rawiller            56.5  3112x7               {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Tongue tie first time. 
+5   Sixties                  10  52.7     C J Waller                     James Mc Donald          56.5  821515x113           {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+6   Profoundly               9   51.1     Michael Freedman                                        54.5  513x6324x13          {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+7   Top Reward               1   47.5     Clayton Douglas                Craig Williams           56.5  13x5                 {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+8   Tom Vegas                5   44.3     D R Mirfin                     Mathew Cahill            56.5  12x7830x361          {'recordType': '', 'starts': 2, 'firsts': 0, 'seconds': 0, 'thirds': 1} -
+9   West Of Swindon          3   43.1     C Maher                        Jason Collett            56.5  2x20x42194x66        {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+10  Matias                   8   42.8     G Ryan & S Alexiou             Jay Ford                 56.5  55x2211x             {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Ear muffs (pre-race only) first time. 
+11  Cellarmaster             9   36.0     John O'Shea & Tom Charlton     Zac Lloyd                56.5  4x51821              {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} -
+12  Federalist               7   28.0     M, W & J Hawkes                Dylan Gibbons            56.5  576x049x2            {'recordType': '', 'starts': 0, 'firsts': 0, 'seconds': 0, 'thirds': 0} Winkers again. 
+13  Kilbrannan               4   27.7     G Portelli                     Ashley Morgan            56.5  374x511946           {'recordType': '', 'starts': 1, 'firsts': 0, 'seconds': 0, 'thirds': 0} Cross-over nose band first time. 
+
+
+END OF CARD
